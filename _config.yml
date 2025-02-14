@@ -21,7 +21,7 @@ title                    : "Divya Ramesh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Divya Ramesh"
-description              : "Post-Doctoral Fellow"
+description              : "Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Divya Ramesh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Post-Doctoral Fellow"
+  location         : "Harvard University, Cambridge MA"
   email            :
   links:
     - label: "Email"
