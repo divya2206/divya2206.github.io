@@ -117,7 +117,8 @@ author:
   avatar           : "/assets/images/1589784783572.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Post-Doctoral Fellow"
   location         : "Harvard University"
-  email            :
+  email            : "divyaramesh@fas.harvard.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
