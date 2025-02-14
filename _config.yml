@@ -118,8 +118,8 @@ author:
   bio              : "Post-Doctoral Fellow"
   location         : "Harvard University"
   email            : "divyaramesh@fas.harvard.edu"
-  #googlescholar    : "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"
-  linkedin         : 
+  googlescholar    : "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"
+  #linkedin         : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
