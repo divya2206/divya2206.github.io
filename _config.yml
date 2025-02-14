@@ -21,7 +21,7 @@ title                    : "Divya Ramesh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Divya Ramesh"
-description              : "Personal Website"
+description              : "Post-Doctoral Fellow, Harvard University"
 url                      : https://divya2206.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : divya2206/divya2206.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
