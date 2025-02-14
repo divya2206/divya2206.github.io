@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Divya Ramesh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1589784783572.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Post-Doctoral Fellow"
   location         : "Harvard University"
   email            :
