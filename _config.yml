@@ -124,7 +124,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:divyaramesh@fas.harvard.edu"
-    - label: "Googlescholar"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-googlescholar-square"
       url: "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"       
     - label: "Website"
