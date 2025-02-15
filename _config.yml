@@ -121,9 +121,9 @@ author:
   #googlescholar    : "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"
   #linkedin         : "https://www.linkedin.com/in/divya-ramesh-118b4714a/"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:divyaramesh@fas.harvard.edu"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+       #url: "mailto:divyaramesh@fas.harvard.edu"
     - label: "Googlescholar"
       icon: "fas fa-fw fa-googlescholar-square"
        url: "https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en"       
