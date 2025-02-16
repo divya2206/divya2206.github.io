@@ -27,6 +27,6 @@ I have been shortlisted (8 finalists out of 210 talks selected) for the [Best St
 
 As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in volunteer and outreach services. I have mentored a total of 32 students at Terradynamics Lab (31 students) and Kod*Lab (1 student) including 1 PhD student, 14 master’s students, 10 undergraduate students, and 7 high school students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
-I have taken other roles in committees and panels during my Ph.D.I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. 
+I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. I have also served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. 
 
 For more information, please see my [CV](https://www.dropbox.com/scl/fi/kl2rm6n52lqsv1vq9u58g/Divya_Ramesh_CV.pdf?rlkey=kj5oouwpvz9uk80yt1ifsxcg7&dl=0).
