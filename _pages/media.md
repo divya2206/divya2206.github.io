@@ -19,6 +19,8 @@ gallery:
 
 [Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713)
 
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
+
 ## Legged robot
 [Philly Tech Week – Medium](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
 
