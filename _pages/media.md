@@ -23,7 +23,7 @@ header:
 
 ![](/assets/KrattBrothers.jpg)
 
-Credit: KrattBrothers
+Credit: Wild Kratts show
 
 ## Legged robot
 [Philly Tech Week – Medium](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
