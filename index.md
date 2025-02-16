@@ -3,6 +3,9 @@ title: "About me"
 layout: single
 author_profile: true
 excerpt: "About me"
+header:
+  overlay_image: /assets/Image_water.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Biology](https://www.oeb.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I am a member of [Lauder Lab](https://sites.harvard.edu/glauder/) which is led by Prof. [George V. Lauder](https://www.oeb.harvard.edu/people/george-v-lauder). 
