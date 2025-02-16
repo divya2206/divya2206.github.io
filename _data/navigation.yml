@@ -4,8 +4,8 @@ main:
     url: https://divya2206.github.io/
   - title: "CV"
     url: https://www.dropbox.com/scl/fi/kl2rm6n52lqsv1vq9u58g/Divya_Ramesh_CV.pdf?rlkey=kj5oouwpvz9uk80yt1ifsxcg7&dl=0
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
   - title: "Media"
     url: /media/
   # - title: "Sample Collections"
