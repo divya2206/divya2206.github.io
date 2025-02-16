@@ -130,7 +130,7 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/divya-ramesh-118b4714a/"  
-      - label: "ResearchGate"
+    - label: "ResearchGate"
       icon: "fas fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Divya-Ramesh-15?ev=hdr_xprf"  
     - label: "X"
