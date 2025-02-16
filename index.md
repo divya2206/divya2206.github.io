@@ -31,7 +31,7 @@ I have served as Social Chair for the [LCSR Graduate Student Association](https:
 
 ## Selected Coursework
 
-I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and Masters at Upenn:
+I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and Master's at Upenn:
 
 **Robotics and AI:** Nonlinear control and planning in robotics, Foundations of reinforcement learning, Learning in robotics, Machine
 learning
