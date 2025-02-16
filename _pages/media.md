@@ -26,9 +26,10 @@ header:
 Credit: Wild Kratts show
 
 ## Legged robot
-[Philly Tech Week – Medium](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
+[Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
+[Medium – Philly Tech Week](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
 
-[Philadelphia Mini Maker Faire – Penn Blog](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
+[Penn Blog – Philadelphia Mini Maker Faire](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
 
 ![](/assets/Meium.jpg)
 
