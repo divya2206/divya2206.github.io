@@ -12,7 +12,6 @@ Gallery:
     image_path:  /assets/KrattBrothers.jpg
     alt: "placeholder image 2"
 ---
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
 
@@ -27,3 +26,4 @@ Gallery:
 
 [Philadelphia Mini Maker Faire – Penn Blog](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
 
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
