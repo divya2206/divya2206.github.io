@@ -2,6 +2,7 @@
 title: "About me"
 layout: single
 author_profile: true
+toc: true
 header:
   overlay_image: /assets/Image_water.jpg 
   overlay_color: "#000" #overlay_filter: "0.5"
