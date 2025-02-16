@@ -4,6 +4,7 @@ layout: single
 author_profile: true
 toc: true
 toc_icon: "list"
+toc_label: "Contents"
 #classes: wide
 header:
   overlay_image: /assets/Image_water.jpg 
