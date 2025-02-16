@@ -28,4 +28,5 @@ header:
 
 [Philadelphia Mini Maker Faire – Penn Blog](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
 
-![](/assets/Meium.jpg){: .align-center}#{% include gallery caption="This is a sample gallery to go along with this case study." %}
+![](/assets/Meium.jpg){: .align-center}
+#{% include gallery caption="This is a sample gallery to go along with this case study." %}
