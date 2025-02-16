@@ -10,7 +10,6 @@ image: http://placehold.it/350x250
     #image_path:  /assets/Image_water.jpg
     #alt: "placeholder image 1"
 ---
-#{% include gallery caption="This is a sample gallery to go along with this case study." %} | {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
