@@ -22,5 +22,5 @@ Contact Positions.” *IEEE Robotics and Automation Letters* 5, no. 2 (2020): 20
 
 ### Conference Papers
 
-##Divya Ramesh##, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
-complex 3-D terrain.” #2022 International Conference on Robotics and Automation (ICRA)#, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
+**Divya Ramesh**, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
+complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
