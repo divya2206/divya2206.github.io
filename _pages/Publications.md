@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: false
 toc: true
 toc_icon: "list"
 toc_label: "Contents"
