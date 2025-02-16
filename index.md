@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Divya Ramesh"
 layout: single
 author_profile: true
 excerpt: "About me"
