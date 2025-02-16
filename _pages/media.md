@@ -4,6 +4,10 @@ permalink: /media/
 header:
   overlay_image: /assets/Image_water.jpg
   overlay_color: "#000" #overlay_filter: "0.5"
+gallery:
+  - url:  /assets/Image_water.jpg
+    image_path:  /assets/Image_water.jpg
+    alt: "placeholder image 1"
 ---
 
 ## Amphibious fishes moving on mud
