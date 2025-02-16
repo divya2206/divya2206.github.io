@@ -22,6 +22,7 @@ header:
 [Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713) 
 
 ![](/assets/KrattBrothers.jpg)
+
 Credit: KrattBrothers
 
 ## Legged robot
@@ -30,4 +31,5 @@ Credit: KrattBrothers
 [Philadelphia Mini Maker Faire – Penn Blog](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
 
 ![](/assets/Meium.jpg)
+
 Credit: Medium
