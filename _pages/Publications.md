@@ -67,3 +67,8 @@ in complex 3-D terrain. *Integrative and Comparative Biology*, 61. (Virtual, Tal
 
 3. Qian, F., **Ramesh, D.**, & Koditschek, D. (2019). Towards Obstacle-aided Legged Locomotion in Cluttered Environments. Bulletin
 of the *American Physical Society*, 64. (Boston, MA, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/S64.14)
+
+## Dissertation and Thesis
+
+1. Ramesh D (2024). Non-legged locomotion on complex 3-D terrain and wet flowable substrates [PDF](https://jscholarship.library.jhu.edu/items/034d9c8b-dec8-44cb-9077-23ca4cdfb74e)
+2. dfdf
