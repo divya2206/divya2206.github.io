@@ -16,7 +16,7 @@ I pursued my Ph.D. degree in [Mechanical Engineering](https://me.jhu.edu/) from 
 
 Prior to this, I received my MSE degree in Electrical Engineering from the Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu/) at [University of Pennsylvania](https://www.upenn.edu/) in 2019. During my masters, I worked as a Graduate Student Research Assistant in [Kod*Lab](https://kodlab.seas.upenn.edu/) under Prof. [Daniel E. Koditschek](https://kodlab.seas.upenn.edu/kod/). At the lab, I investigated the behavior and dynamics of legged robot during obstacle interaction. I received my B.Tech degree in [Electronics and Communication Engineering](https://vit.ac.in/schools/school-of-electronics-engineering-for-ug-courses) from [VIT University](https://vit.ac.in/), Vellore, India in 2017.     
 
-## Publications, Awards & Honors
+## Publications, Awards, & Honors
 
 My work has been published in [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l) (presented at ICRA 2020) and presented at [ICRA 2022](https://www.ieee-ras.org/component/rseventspro/event/2095-icra-2022). 2 journal preprints are currently under development from my Ph.D. research. 11 conference abstracts were presented at conferences including [APS](https://www.aps.org/membership/join) and [SICB](https://sicb.org/). I have been shortlisted (8 finalists out of 210 talks selected) for the [Best Student Paper finalist (Division of Comparative Biomechanics)](https://sicb.burkclients.com/wp/?page_id=2124) at the SICB Annual Meeting in 2023. I have also received a Mechanical Engineering Departmental Fellowship for the academic year 2019-2020 during my Ph.D.
 
