@@ -4,10 +4,13 @@ permalink: /media/
 header:
   overlay_image: /assets/Image_water.jpg
   overlay_color: "#000" #overlay_filter: "0.5"
-Gallery:
+gallery:
   - url:  /assets/Meium.jpg
     image_path:  /assets/Meium.jpg
     alt: "placeholder image 1"
+  - url:  /assets/KrattBrothers.jpg
+    image_path:  /assets/KrattBrothers.jpg
+    alt: "placeholder image 2"
 ---
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
