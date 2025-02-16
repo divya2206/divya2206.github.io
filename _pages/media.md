@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "Press & Media"
 permalink: /media/
 header:
