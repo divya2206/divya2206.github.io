@@ -3,6 +3,7 @@ title: "Press & Media"
 permalink: /media/
 toc: true
 toc_icon: "list"
+toc_label: "Contents"
 header:
   overlay_image: /assets/Image_water.jpg
   overlay_color: "#000" #overlay_filter: "0.5"
