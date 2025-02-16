@@ -1,6 +1,8 @@
 ---
 title: "Press & Media"
 permalink: /media/
+header:
+  overlay_image: /assets/Image_water.jpg
 ---
 
 ## Amphibious fishes moving on mud
