@@ -18,7 +18,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 1. **Divya Ramesh**, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ”Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions.” *IEEE Robotics and Automation Letters* 5, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 
-3. †Rakshith, M. N., †**Divya Ramesh**, S. Sundar, and M. Shanmugasundaram. ”An efficient assistive system for the visually impaired.”
+   †Rakshith, M. N., †**Divya Ramesh**, S. Sundar, and M. Shanmugasundaram. ”An efficient assistive system for the visually impaired.”
 *ARPN Journal of Engineering and Applied Sciences* 12, no. 19 (2017). [PDF](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) (†Equal contribution)
 
 ### Conference Papers
