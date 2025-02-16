@@ -1,9 +1,9 @@
 ---
 title: "Press & Media"
 permalink: /media/
-#toc: true
-#toc_icon: "list"
-#toc_label: "Contents"
+toc: true
+toc_icon: "list"
+toc_label: "Contents"
 #classes: wide
 header:
   overlay_image: /assets/Image_water.jpg
