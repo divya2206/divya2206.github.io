@@ -4,13 +4,13 @@ permalink: /media/
 header:
   overlay_image: /assets/Image_water.jpg
   overlay_color: "#000" #overlay_filter: "0.5"
-gallery:
-  - url:  /assets/Image_water.jpg
-    image_path:  /assets/Image_water.jpg
-    alt: "placeholder image 1"
+Sidebar:
+image: http://placehold.it/350x250
+  #- url:  /assets/Image_water.jpg
+    #image_path:  /assets/Image_water.jpg
+    #alt: "placeholder image 1"
 ---
-{% include gallery caption="This is a sample gallery to go along with this case study." %} | {% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+#{% include gallery caption="This is a sample gallery to go along with this case study." %} | {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
