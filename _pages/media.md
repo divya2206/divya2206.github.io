@@ -22,6 +22,7 @@ header:
 [Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713) 
 
 ![](/assets/KrattBrothers.jpg){: .align-center}
+{% include gallery caption="Credit: KrattBrothers" %}
 
 ## Legged robot
 [Philly Tech Week – Medium](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
@@ -29,4 +30,4 @@ header:
 [Philadelphia Mini Maker Faire – Penn Blog](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
 
 ![](/assets/Meium.jpg){: .align-center}
-#{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Credit: Medium" %}
