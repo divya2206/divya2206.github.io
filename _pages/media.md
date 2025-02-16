@@ -34,4 +34,4 @@ Credit: Wild Kratts show
 
 ![](/assets/Meium.jpg)
 
-Credit: Medium
+Credit: Eric Sucar, Medium
