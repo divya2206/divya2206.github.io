@@ -27,6 +27,16 @@ I have been shortlisted (**8** finalists out of **210** talks selected) for the 
 
 As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional, volunteer, and outreach services. I have mentored a total of 32 students at Terradynamics Lab (**31 students**) and Kod*Lab (**1 student**) including **1 PhD** student, **14 master’s** students, **10 undergraduate** students, and **7 high school** students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
-I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. I have also served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. 
+I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
+
+## Selected Coursework
+
+I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and Masters at Upenn:
+
+**Robotics and AI:** Nonlinear control and planning in robotics, Foundations of reinforcement learning, Learning in robotics, Machine
+learning
+**Dynamics, Control, and Signal Processing:** Locomotion dynamics & control, Intro. to nonlinear dynamics and chaos, Dynamics of
+robots and spacecraft, Control systems for robotics, System identification, Linear systems theory, Digital signal processing
+**Electronics:** Analog integrated circuits, Mixed signal design and model
 
 For more information, please see my [CV](https://www.dropbox.com/scl/fi/kl2rm6n52lqsv1vq9u58g/Divya_Ramesh_CV.pdf?rlkey=kj5oouwpvz9uk80yt1ifsxcg7&dl=0).
