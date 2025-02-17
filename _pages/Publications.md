@@ -14,7 +14,7 @@ My full list of publications and conference abstracts can be found on my [Google
 
 Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab's YouTube channel](https://www.youtube.com/@terradynamicslab).
 
-## Peer-reviewed publications
+## Peer-reviewed Publications
 
 ### Journal Articles
 
