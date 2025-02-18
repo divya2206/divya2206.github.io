@@ -9,6 +9,7 @@ author_profile: true
 toc: true
 toc_icon: "list"
 toc_label: "Contents"
+toc_sticky: false
 #classes: wide
 header:
   overlay_image: /assets/Image_water.jpg 
