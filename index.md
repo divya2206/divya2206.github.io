@@ -3,7 +3,7 @@ title: "About me"
 layout: single
 author_profile: false
 sidebar:
-    title: ""
+  - title: ""
     image: /assets/1589784783572.jpg
     image_alt: "image"
 toc_icon: "list"
