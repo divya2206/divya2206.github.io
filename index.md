@@ -8,7 +8,6 @@ sidebar:
     image_alt: "image"
 toc_icon: "list"
 toc_label: "Contents"
-toc_
 #classes: wide
 header:
   overlay_image: /assets/Image_water.jpg 
