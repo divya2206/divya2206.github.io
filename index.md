@@ -1,14 +1,14 @@
 ---
 title: "About me"
 layout: single
-author_profile: true
+author_profile: false
 sidebar:
     title: ""
     image: /assets/1589784783572.jpg
     image_alt: "image"
-toc: true
 toc_icon: "list"
 toc_label: "Contents"
+toc_
 #classes: wide
 header:
   overlay_image: /assets/Image_water.jpg 
