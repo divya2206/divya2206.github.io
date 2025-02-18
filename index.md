@@ -1,8 +1,9 @@
 ---
 title: "About me"
 layout: single
-author_profile: false
-image: /assets/1589784783572.jpg
+author_profile: true
+sidebar:
+    image: /assets/1589784783572.jpg
 toc: true
 toc_icon: "list"
 toc_label: "Contents"
