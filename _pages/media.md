@@ -29,7 +29,7 @@ header:
 
 *Credit: Wild Kratts show*
 
-## Legged robot
+## Legged robot - Outreach and volunteer activities for Kod*lab
 [Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
 
 [Medium – Philly Tech Week](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
