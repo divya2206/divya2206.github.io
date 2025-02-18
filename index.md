@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: single
-author_profile: false
+author_profile: true
 #sidebar:
   #- title: ""
     #image: /assets/1589784783572.jpg
