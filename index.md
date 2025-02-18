@@ -2,7 +2,7 @@
 title: "About me"
 layout: single
 author_profile: true
-image: /assets/1589784783572
+image: /assets/1589784783572.jpg
 toc: true
 toc_icon: "list"
 toc_label: "Contents"
