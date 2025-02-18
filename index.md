@@ -6,6 +6,7 @@ sidebar:
   - title: ""
     image: /assets/1589784783572.jpg
     image_alt: "image"
+toc: true
 toc_icon: "list"
 toc_label: "Contents"
 #classes: wide
