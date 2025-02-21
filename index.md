@@ -12,8 +12,8 @@ toc_label: "Contents"
 toc_sticky: true
 #classes: wide
 header:
-  image: /assets/Image_water.jpg 
-  #overlay_color: "#000" #overlay_filter: "0.5"
+  overlay_image: /assets/Image_water.jpg 
+  overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
 ## Hello! I am Divya Ramesh
