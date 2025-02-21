@@ -30,6 +30,8 @@ header:
 
 *Credit: Wild Kratts show*
 
+{: .notice--danger}
+
 ## Legged robot - Outreach and volunteer activities for Kod*lab
 [Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
 
