@@ -17,7 +17,7 @@ header:
   #- url:  /assets/KrattBrothers.jpg
     #image_path:  /assets/KrattBrothers.jpg
     #alt: "placeholder image 2"
-feature_row1:
+feature_row:
   - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
     image_path: /assets/Meium.jpg
     title: "Medium – Philly Tech Week"
@@ -62,8 +62,8 @@ feature_row2:
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 
-{% include feature_row2 %}
-
+{% include feature_row %}
+{% include feature_row id="feature_row2" type="left" %}
 
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
