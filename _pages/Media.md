@@ -24,6 +24,18 @@ feature_row:
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
+  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+    image_path: /assets/Meium.jpg
+    title: "Medium – Philly Tech Week"
+    #alt: "cc"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+    image_path: /assets/Meium.jpg
+    title: "Medium – Philly Tech Week"
+    #alt: "cc"
+    btn_label: "Read"
+    btn_class: "btn--primary"
 ---
 ## Amphibious fishes moving on mud
 
