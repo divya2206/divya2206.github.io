@@ -22,11 +22,13 @@ header:
 
 [Johns Hopkins University Department of Mechanical Engineering News - APS News](https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/)
 
-![](/assets/KrattBrothers.jpg){: .align-right} | *Credit: Wild Kratts show* 
-
 [APS News](https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs)
 
 [Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713) 
+
+![](/assets/KrattBrothers.jpg)
+
+*Credit: Wild Kratts show* 
 
 ## Legged robot - Outreach and volunteer activities for Kod*lab
 [Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
