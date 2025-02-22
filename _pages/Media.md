@@ -20,7 +20,7 @@ header:
 feature_row:
   - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
     image_path: /assets/Meium.jpg
-    excerpt: "XX"
+    excerpt: "Medium – Philly Tech Week"
     alt: "cc"
     btn_label: "Read"
 ---
