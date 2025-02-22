@@ -22,7 +22,7 @@ header:
 
 [Johns Hopkins University Department of Mechanical Engineering News - APS News](https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/)
 
-![](/assets/KrattBrothers.jpg){: .align-right}*Credit: Wild Kratts show* 
+![](/assets/KrattBrothers.jpg "Credit: Wild Kratts show"){: .align-right}*Credit: Wild Kratts show* 
 
 [APS News](https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs)
 
