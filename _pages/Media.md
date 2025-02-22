@@ -58,11 +58,10 @@ feature_row2:
 ---
 ## Amphibious fishes moving on mud
 
-{% include feature_row1 %}
+{% include feature_row %}
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 
-{% include feature_row %}
 {% include feature_row id="feature_row2" type="left" %}
 
 ## Amphibious fishes moving on mud
