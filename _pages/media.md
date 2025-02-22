@@ -26,7 +26,7 @@ header:
 
 [Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713) 
 
-![](/assets/KrattBrothers.jpg)
+![](/assets/KrattBrothers.jpg){: .align-right} 
 
 *Credit: Wild Kratts show*
 
