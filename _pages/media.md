@@ -46,7 +46,3 @@ header:
 ![](/assets/Meium.jpg)
 
 *Credit: Eric Sucar, Medium*
-
-#{% include base_path %}
-#Sample
-#{% include feature_row %}
