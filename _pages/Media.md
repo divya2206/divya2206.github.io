@@ -26,3 +26,5 @@ feature_row:
 ---
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
+
+{% include feature_row %}
