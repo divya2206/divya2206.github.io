@@ -17,11 +17,11 @@ header:
   #- url:  /assets/KrattBrothers.jpg
     #image_path:  /assets/KrattBrothers.jpg
     #alt: "placeholder image 2"
-feature_row:
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
-    image_path: /assets/Meium.jpg
-    excerpt: "XX"
-    alt: "cc"
+#feature_row:
+  #- url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+    #image_path: /assets/Meium.jpg
+    #excerpt: "XX"
+    #alt: "cc"
     #btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
@@ -48,7 +48,6 @@ feature_row:
 
 *Credit: Eric Sucar, Medium*
 
-{% include base_path %}
-## Sample
-
-{% include feature_row %}
+#{% include base_path %}
+#Sample
+#{% include feature_row %}
