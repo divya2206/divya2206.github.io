@@ -17,12 +17,12 @@ header:
   #- url:  /assets/KrattBrothers.jpg
     #image_path:  /assets/KrattBrothers.jpg
     #alt: "placeholder image 2"
-#feature_row:
-  #- url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
-    #image_path: /assets/Meium.jpg
-    #excerpt: "XX"
-    #alt: "cc"
-    #btn_label: "Read"
+feature_row:
+  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+    image_path: /assets/Meium.jpg
+    excerpt: "XX"
+    alt: "cc"
+    btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
