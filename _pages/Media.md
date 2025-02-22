@@ -18,32 +18,38 @@ header:
     #image_path:  /assets/KrattBrothers.jpg
     #alt: "placeholder image 2"
 feature_row:
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/
     image_path: /assets/Meium.jpg
-    title: "Medium – Philly Tech Week"
+    title: "Johns Hopkins University Whiting School of Engineering News - Wild Kratts show"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/
     image_path: /assets/Meium.jpg
-    title: "Medium – Philly Tech Week"
+    title: "Johns Hopkins University Department of Mechanical Engineering News - APS News"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs
     image_path: /assets/Meium.jpg
-    title: "Medium – Philly Tech Week"
+    title: "APS News"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
+  - url: https://pbskids.org/videos/watch/fish-out-of-water/1485713s
+    image_path: /assets/Meium.jpg
+    title: "Wild Kratts show – Fish Out of Water"
+    #alt: "cc"
+    btn_label: "Read"
+    btn_class: "btn--primary"    
 feature_row2:
   - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
     image_path: /assets/Meium.jpg
-    title: "Medium – Philly Tech Week"
+    title: "Technical.ly – Philly Tech Week"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/
     image_path: /assets/Meium.jpg
     title: "Medium – Philly Tech Week"
     #alt: "cc"
@@ -51,7 +57,7 @@ feature_row2:
     btn_class: "btn--primary"
   - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
     image_path: /assets/Meium.jpg
-    title: "Medium – Philly Tech Week"
+    title: "Penn Blog – Philadelphia Mini Maker Faire"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
@@ -62,24 +68,5 @@ feature_row2:
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2"%}
 
-## Amphibious fishes moving on mud
-[Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
-
-[Johns Hopkins University Department of Mechanical Engineering News - APS News](https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/)
-
-[APS News](https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs)
-
-[Wild Kratts show – Fish Out of Water](https://pbskids.org/videos/watch/fish-out-of-water/1485713) 
-
-![](/assets/KrattBrothers.jpg)
-
-*Credit: Wild Kratts show* 
-
-## Legged robot - Outreach & Volunteer activities for Kod*lab
-[Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
-
-[Medium – Philly Tech Week](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
-
-[Penn Blog – Philadelphia Mini Maker Faire](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
