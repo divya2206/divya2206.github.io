@@ -38,7 +38,7 @@ feature_row:
     btn_label: "Read"
     btn_class: "btn--primary"
   - url: https://pbskids.org/videos/watch/fish-out-of-water/1485713s
-    image_path: /assets/Meium.jpg
+    image_path: /assets/KrattBrothers.jpg
     excerpt: "Wild Kratts show – Fish Out of Water"
     #alt: "cc"
     btn_label: "Read"
