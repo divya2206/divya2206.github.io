@@ -21,6 +21,7 @@ feature_row:
   - url: https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/
     image_path: /assets/Meium.jpg
     title: "Johns Hopkins University Whiting School of Engineering News - Wild Kratts show"
+    excerpt: "Johns Hopkins University Whiting School of Engineering News - Wild Kratts show"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
