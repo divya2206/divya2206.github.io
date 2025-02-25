@@ -44,19 +44,19 @@ feature_row:
     btn_label: "Read"
     btn_class: "btn--primary"    
 feature_row2:
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/
     image_path: /assets/Meium.jpg
     excerpt: "Technical.ly – Philly Tech Week"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
-  - url: https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/
+  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
     image_path: /assets/Meium.jpg
     excerpt: "Medium – Philly Tech Week"
     #alt: "cc"
     btn_label: "Read"
     btn_class: "btn--primary"
-  - url: https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35
+  - url: https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/
     image_path: /assets/Meium.jpg
     excerpt: "Penn Blog – Philadelphia Mini Maker Faire"
     #alt: "cc"
