@@ -36,7 +36,9 @@ I have been shortlisted (**8** finalists out of **210** talks selected) for the 
 
 ## Mentorship & Service
 
-As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional, volunteer, and outreach services. I have mentored a total of 32 students at Terradynamics Lab (**31 students**) and Kod*lab (**1 student**) including **1 PhD** student, **14 master’s** students, **10 undergraduate** students, and **7 high school** students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
+As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional, volunteer, and outreach services. 
+
+I have mentored a total of 32 students at Terradynamics Lab (**31 students**) and Kod*lab (**1 student**) including **1 PhD** student, **14 master’s** students, **10 undergraduate** students, and **7 high school** students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
 I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
