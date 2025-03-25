@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: /publications/
+permalink: /research/
 toc: true
 toc_icon: "list"
 toc_label: "Contents"
