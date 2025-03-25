@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research"
 permalink: /research/
 toc: true
 toc_icon: "list"
