@@ -11,7 +11,10 @@ header:
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
-**Postdoctoral Research
-**Doctoral Research
-**Master's Research
-**Undergraduate Research
+## Postdoctoral Research
+
+## Doctoral Research
+
+## Master's Research
+
+## Undergraduate Research
