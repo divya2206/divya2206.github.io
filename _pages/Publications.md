@@ -32,10 +32,10 @@ complex 3-D terrain.” *2022 International Conference on Robotics and Automatio
 ## Contributed Conference Abstracts
 
 1. **Ramesh, D.**, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
-C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology*. (Atlanta,
+C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology* 65. (Atlanta,
 GA, Talk)
 2. Sadalgekar, G., **Ramesh, D.**, & Li, C. (2025). Using robophysical models to study the performance landscape of terrestrial fish
-locomotion. *Integrative and Comparative Biology*. (Atlanta, GA, Talk)
+locomotion. *Integrative and Comparative Biology* 65. (Atlanta, GA, Talk)
 3. **Ramesh, D.**, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
 Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength. *Bulletin of the American
 Physical Society*, 69. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR24/Session/G38.12)
