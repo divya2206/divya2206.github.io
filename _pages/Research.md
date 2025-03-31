@@ -17,4 +17,4 @@ header:
 
 ## Master's Research
 
-## Undergraduate Research
+## Other Projects
