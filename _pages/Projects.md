@@ -11,9 +11,9 @@ header:
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
-Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
+#Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
 
-Wall Tracking using a cockroach Lateral Leg Spring (LLS) Model
+#Wall Tracking using a cockroach Lateral Leg Spring (LLS) Model
 
 Lateral Leg Spring (LLS) Model Analysis and Application on Wall Following
 
