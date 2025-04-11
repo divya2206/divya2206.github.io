@@ -14,6 +14,7 @@ header:
 # Postdoctoral Research
 
 # Doctoral Research
+My research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. It was divided into two parts based on the environment: (1) developing a sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrains and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation.
 
 ## Amphibious fish locomotion on mud with various strengths:
 • Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes
