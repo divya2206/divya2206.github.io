@@ -11,12 +11,12 @@ header:
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
-# Postdoctoral Research
+## Postdoctoral Research
 
-# Doctoral Research
+## Doctoral Research
 My research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. It was divided into two parts based on the environment: (1) developing a sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrains and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation.
 
-## Amphibious fish locomotion on mud with various strengths:
+### Amphibious fish locomotion on mud with various strengths:
 • Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes
 moving on mud with varying mud strength.
 • Developed tools and methods to characterize and control the mud strength during the study.
@@ -26,13 +26,13 @@ strengths.
 on different mud strengths.
 • Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 
-## Sensorized snake robot to understand snake locomotion on complex 3D environment:
+### Sensorized snake robot to understand snake locomotion on complex 3D environment:
 • Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body contact forces to traverse a complex 3D environment.
 • Explored a model-based calibration considering the viscoelastic behavior of the piezoresistive sensor, which will be useful for future
 studies.
 • Developed a force estimation model using the model-based calibration to estimate forces based on sensor input.
 
-# Master's Research
+## Master's Research
 • Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis
 • The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system
 • Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller
