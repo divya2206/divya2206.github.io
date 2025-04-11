@@ -27,7 +27,7 @@ Designed and conducted animal experiments with three model organisms to study th
 
 ## Master's Research
 <p align="left">
-  <img src="/assets/ICRA_RAL_Masters.jpeg" alt="Alt text" style="width:600px; float:right; margin: 0 0 1em 1em;">
+  <img src="/assets/ICRA_RAL_Masters.jpeg" alt="Alt text" style="width:400px; float:right; margin: 0 0 1em 1em;">
 </p>
 Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis. The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system. Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller. Created an algorithm to automatically generate the optimum window of data where the robot enters the equilibrium state and stays there till the end of the periodic obstacles. Built a 3-dimensional reconstruction of the robot-obstacle interaction using the experiment results. Developed an algorithm to identify contact points between the obstacle and the legs, and on flat ground to help understand the change in contact point pattern when the robot shows different behaviors during the obstacle traversal.
 
