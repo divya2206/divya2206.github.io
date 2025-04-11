@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: /projects/
 toc: false
 toc_icon: "list"
 toc_label: "Contents"
