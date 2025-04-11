@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-toc: true
+toc: false
 toc_icon: "list"
 toc_label: "Contents"
 toc_sticky: true
