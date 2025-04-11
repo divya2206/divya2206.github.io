@@ -11,7 +11,7 @@ header:
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
-# Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
+## Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
 Implemented Improved Deep Deterministic Policy Gradient (DDPG) and TD3 on Ant-V2 model using OpenAI gym environment to find stable gait control.
 
 # Wall Tracking using a cockroach Lateral Leg Spring (LLS) Model
