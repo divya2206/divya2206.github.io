@@ -22,7 +22,7 @@ Implemented the trajectory tracking and the tracking control of the LLS model mo
 Implemented and simulated a 2- LLS model for a fixed CoP (Center of Pressure) along both vertical and horizontal directions. Implemented the wall following control for the antenna-based LLS model. Added multiple sections on the return map: (1) A section when the leg spring is fully compressed (2) A section when the leg spring is fully contracted. Implemented the wall following control on the return map.
 
 ## Place and mark with intention using UR5
-• Used UR5 interface to get the positions from the robot. Performed control trajectories with UR5 controlled using ROS RVIZ environment that involved inverse kinematics, resolved rate control, gradient control programmed in Matlab to perform the place and mark task. Programmed a code to perform the task of writing "RDKDC" on a piece of paper using the actual robot controlled using ROS RVIZ environment.
+Used UR5 interface to get the positions from the robot. Performed control trajectories with UR5 controlled using ROS RVIZ environment that involved inverse kinematics, resolved rate control, gradient control programmed in Matlab to perform the place and mark task. Programmed a code to perform the task of writing "RDKDC" on a piece of paper using the actual robot controlled using ROS RVIZ environment.
 
 ## EKF SLAM
 Implemented a full SLAM system based on an Extended Kalman Filter in Python.
