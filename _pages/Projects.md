@@ -11,26 +11,26 @@ header:
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
-#Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
+# Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
 
-#Wall Tracking using a cockroach Lateral Leg Spring (LLS) Model
+# Wall Tracking using a cockroach Lateral Leg Spring (LLS) Model
 
-Lateral Leg Spring (LLS) Model Analysis and Application on Wall Following
+# Lateral Leg Spring (LLS) Model Analysis and Application on Wall Following
 
-Place and mark with intention using UR5
+# Place and mark with intention using UR5
 
-EKF SLAM
+# EKF SLAM
 
-A Quaternion Based Unscented Kalman Filter Orientation Tracking
+# A Quaternion Based Unscented Kalman Filter Orientation Tracking
 
-Bayes Filter
+# Bayes Filter
 
-Adaptive Filtering
+# Adaptive Filtering
 
-Control Methods for time delayed continuous systems
+# Control Methods for time delayed continuous systems
 
 
-8-bit Analog to Digital Converter (ADC) Design
+# 8-bit Analog to Digital Converter (ADC) Design
 
-Wideband Trans-impedance Amplifier Design
+# Wideband Trans-impedance Amplifier Design
 
