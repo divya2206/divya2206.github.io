@@ -34,4 +34,3 @@ Control Methods for time delayed continuous systems
 
 Wideband Trans-impedance Amplifier Design
 
-An Assistive Device for the Visually Impaired 
