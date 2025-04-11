@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Projects"
 permalink: /projects/
 toc: false
 toc_icon: "list"
