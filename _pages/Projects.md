@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/Image_water.jpg
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
+I have taken courses in various topics during my academic studies. Here is a list of course projects from my Ph.D. at JHU and my Master’s at UPenn.
 
 ## Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
 Implemented Improved Deep Deterministic Policy Gradient (DDPG) and TD3 on Ant-V2 model using OpenAI gym environment to find stable gait control.
