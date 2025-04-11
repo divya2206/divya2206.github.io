@@ -17,6 +17,10 @@ My research focused on studying and understanding animal and robot locomotion on
 ### (1) Sensorized snake robot to understand snake locomotion on complex 3D environment:
 Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body contact forces to traverse a complex 3D environment. Explored a model-based calibration considering the viscoelastic behavior of the piezoresistive sensor, which will be useful for future studies. Developed a force estimation model using the model-based calibration to estimate forces based on sensor input.
 
+This work has been published in:
+**Divya Ramesh**, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
+complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
+
 ### (2) Amphibious fish locomotion on mud with various strengths:
 Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes moving on mud with varying mud strength. Developed tools and methods to characterize and control the mud strength during the study. Performed systematic study on the performance of mudskipper using appendicular locomotion and mode transitions on different mud strengths. Performed preliminary study on the performance of bichir using axial appendicular locomotion and ropefish using axial locomotion on different mud strengths. Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 
