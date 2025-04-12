@@ -46,10 +46,6 @@ header:
 
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
-<p align="left">
-  <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
-  <small>Image credit: Eric Sucar, Medium</small>
-</p>
 <p style="margin-left: 220px;"> 
 <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
 </p>
@@ -60,4 +56,9 @@ header:
 
 <p style="margin-left: 220px;"> 
 <a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/">Penn Blog – Philadelphia Mini Maker Faire</a>
+</p>
+
+<p align="left">
+  <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
+  <small>Image credit: Eric Sucar, Medium</small>
 </p>
