@@ -26,19 +26,13 @@ Designed and conducted animal experiments with three model organisms to study th
 • 2 journal preprints are currently under development.
 
 ## Master's Research
-<img src="/assets/ICRA_RAL_Masters.jpeg" alt="Alt text" style="float: left; width: 200px; margin: 80px 20px 10px 0;">
-<p style="margin-left: 220px;">
 Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis. The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system. Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller. Created an algorithm to automatically generate the optimum window of data where the robot enters the equilibrium state and stays there till the end of the periodic obstacles. Built a 3-dimensional reconstruction of the robot-obstacle interaction using the experiment results. Developed an algorithm to identify contact points between the obstacle and the legs, and on flat ground to help understand the change in contact point pattern when the robot shows different behaviors during the obstacle traversal.
-</p>
 
 • **Divya Ramesh**, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ”Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 
-## Undergaduate Research
-<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
-<p style="margin-left: 220px;">
+## Undergraduate Research
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
-</p>
 
 • †Rakshith, M. N., †**Divya Ramesh**, S. Sundar, and M. Shanmugasundaram. ”An efficient assistive system for the visually impaired.”
 *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). [PDF](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) (†Equal contribution)
