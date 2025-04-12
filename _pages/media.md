@@ -25,7 +25,7 @@ header:
 ---
 ## Amphibious fishes moving on mud
 <img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
-<p style="margin-left: 220px;">
+<p style="margin-right: 220px;">
   *Credit: Wild Kratts show*
 </p>
 <p style="margin-left: 220px;">
@@ -47,9 +47,10 @@ header:
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
-<p style="margin-left: 220px;">
+<p style="margin-right: 220px;">
   *Credit: Eric Sucar, Medium*
 </p>
+<p style="margin-left: 220px;"> 
 <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
 </p>
 
