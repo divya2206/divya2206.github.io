@@ -24,6 +24,7 @@ complex 3-D terrain.” *2022 International Conference on Robotics and Automatio
 Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes moving on mud with varying mud strength. Developed tools and methods to characterize and control the mud strength during the study. Performed systematic study on the performance of mudskipper using appendicular locomotion and mode transitions on different mud strengths. Performed preliminary study on the performance of bichir using axial appendicular locomotion and ropefish using axial locomotion on different mud strengths. Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 
 • 2 journal preprints are currently under development.
+
 • **Ramesh, D.**, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
 C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology, 65*. (Atlanta,
 GA, Talk)
