@@ -34,11 +34,11 @@ header:
 </p>
 
 <p style="margin-left: 220px;"> 
-<a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs">APS News</a>
+<a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs" target="_blank">APS News</a>
 </p>
 
 <p style="margin-left: 220px;"> 
-<a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713">Wild Kratts show – Fish Out of Water</a>
+<a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713" target="_blank">Wild Kratts show – Fish Out of Water</a>
 </p>
 
 <p align="left">
@@ -48,15 +48,15 @@ header:
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
 <p style="margin-left: 220px;"> 
-<a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
+<a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/" target="_blank">Technical.ly – Philly Tech Week</a>
 </p>
 
 <p style="margin-left: 220px;"> 
-<a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35">Medium – Philly Tech Week</a>
+<a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35" target="_blank">Medium – Philly Tech Week</a>
 </p>
 
 <p style="margin-left: 220px;"> 
-<a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/">Penn Blog – Philadelphia Mini Maker Faire</a>
+<a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/" target="_blank">Penn Blog – Philadelphia Mini Maker Faire</a>
 </p>
 
 <p align="left">
