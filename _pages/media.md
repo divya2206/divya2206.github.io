@@ -25,9 +25,6 @@ header:
 ---
 ## Amphibious fishes moving on mud
 <img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
-<p align="left">
-  <small>Image credit: Wild Kratts show</small>
-</p>
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>  
 </p>
@@ -44,8 +41,12 @@ header:
 <a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713">Wild Kratts show – Fish Out of Water</a>
 </p>
 
+<p align="left">
+  <small>Image credit: Wild Kratts show</small>
+</p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
+<img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
 <p style="margin-left: 220px;"> 
 <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
 </p>
@@ -59,6 +60,5 @@ header:
 </p>
 
 <p align="left">
-  <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
   <small>Image credit: Eric Sucar, Medium</small>
 </p>
