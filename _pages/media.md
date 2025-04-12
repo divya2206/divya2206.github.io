@@ -27,22 +27,31 @@ header:
 <img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>  
-  
+</p>
+
+<p style="margin-left: 220px;"> 
 <a href="https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/" target="_blank">Johns Hopkins University Department of Mechanical Engineering News - APS News</a> 
+</p>
 
+<p style="margin-left: 220px;"> 
 <a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs">APS News</a>
+</p>
 
+<p style="margin-left: 220px;"> 
 <a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713">Wild Kratts show – Fish Out of Water</a>
+</p>
+<p style="margin-left: 220px;"> 
 
 *Credit: Wild Kratts show* 
 </p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
-[Technical.ly – Philly Tech Week](https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/)
 
-[Medium – Philly Tech Week](https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35)
+<a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
 
-[Penn Blog – Philadelphia Mini Maker Faire](https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/)
+<a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35">Medium – Philly Tech Week</a>
+
+<a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/">Penn Blog – Philadelphia Mini Maker Faire</a>
 
 ![](/assets/Meium.jpg)
 
