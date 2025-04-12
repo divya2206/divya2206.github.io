@@ -42,7 +42,7 @@ header:
 </p>
 
 <p align="left">
-  <small>Credit: Wild Kratts show</small>
+  <small>Image Credit: Wild Kratts show</small>
 </p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
@@ -60,5 +60,5 @@ header:
 </p>
 
 <p align="left">
-  <small>Credit: Eric Sucar, Medium</small>
+  <small>Image Credit: Eric Sucar, Medium</small>
 </p>
