@@ -26,6 +26,7 @@ header:
 ## Amphibious fishes moving on mud
 <img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
 <p style="margin-left: 220px;">
+  
 [Johns Hopkins University Whiting School of Engineering News - Wild Kratts show](https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/)
 
 [Johns Hopkins University Department of Mechanical Engineering News - APS News](https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/)
