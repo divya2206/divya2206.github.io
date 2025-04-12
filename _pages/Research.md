@@ -35,7 +35,7 @@ Investigated the behavior and dynamics of legged robot during obstacle interacti
 Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 
 ## Undergaduate Research
-<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
+<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
 <p style="margin-left: 220px;">
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
 </p>
