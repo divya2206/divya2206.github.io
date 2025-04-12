@@ -24,7 +24,7 @@ header:
     #btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
-<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
+<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 80px 20px 10px 0;">
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>  
 </p>
@@ -42,7 +42,7 @@ header:
 </p>
 
 <p align="left">
-  <small>Image credit: Wild Kratts show</small>
+  <small>Credit: Wild Kratts show</small>
 </p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
@@ -60,5 +60,5 @@ header:
 </p>
 
 <p align="left">
-  <small>Image credit: Eric Sucar, Medium</small>
+  <small>Credit: Eric Sucar, Medium</small>
 </p>
