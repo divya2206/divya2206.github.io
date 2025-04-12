@@ -27,13 +27,17 @@ Designed and conducted animal experiments with three model organisms to study th
 • **Ramesh, D.**, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
 C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology, 65*. (Atlanta,
 GA, Talk)
+
 • Sadalgekar, G., **Ramesh, D.**, & Li, C. (2025). Using robophysical models to study the performance landscape of terrestrial fish
 locomotion. *Integrative and Comparative Biology, 65*. (Atlanta, GA, Talk)
+
 • **Ramesh, D.**, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
 Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength. *Bulletin of the American
 Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR24/Session/G38.12)
+
 • **Ramesh, D.**, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). Biological and robophysical experiments of terrestrial
 fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)
+
 • **Ramesh, D.**, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
 C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
 TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
