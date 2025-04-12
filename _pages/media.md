@@ -24,7 +24,10 @@ header:
     #btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
-<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
+<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
+<p style="margin-left: 220px;">
+  *Credit: Wild Kratts show*
+</p>
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>  
 </p>
@@ -40,19 +43,20 @@ header:
 <p style="margin-left: 220px;"> 
 <a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713">Wild Kratts show – Fish Out of Water</a>
 </p>
-<p style="margin-left: 220px;"> 
 
-*Credit: Wild Kratts show* 
-</p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
-
+<img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
+<p style="margin-left: 220px;">
+  *Credit: Eric Sucar, Medium*
+</p>
 <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/">Technical.ly – Philly Tech Week</a>
+</p>
 
+<p style="margin-left: 220px;"> 
 <a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35">Medium – Philly Tech Week</a>
+</p>
 
+<p style="margin-left: 220px;"> 
 <a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/">Penn Blog – Philadelphia Mini Maker Faire</a>
-
-![](/assets/Meium.jpg)
-
-*Credit: Eric Sucar, Medium*
+</p>
