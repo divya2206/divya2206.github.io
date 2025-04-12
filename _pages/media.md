@@ -46,8 +46,8 @@ header:
 
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
-<img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
 <p align="left">
+  <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 40px 20px 10px 0;">
   <small>Image credit: Eric Sucar, Medium</small>
 </p>
 <p style="margin-left: 220px;"> 
