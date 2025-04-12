@@ -24,6 +24,19 @@ complex 3-D terrain.” *2022 International Conference on Robotics and Automatio
 Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes moving on mud with varying mud strength. Developed tools and methods to characterize and control the mud strength during the study. Performed systematic study on the performance of mudskipper using appendicular locomotion and mode transitions on different mud strengths. Performed preliminary study on the performance of bichir using axial appendicular locomotion and ropefish using axial locomotion on different mud strengths. Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 
 • 2 journal preprints are currently under development.
+• **Ramesh, D.**, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
+C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology, 65*. (Atlanta,
+GA, Talk)
+• Sadalgekar, G., **Ramesh, D.**, & Li, C. (2025). Using robophysical models to study the performance landscape of terrestrial fish
+locomotion. *Integrative and Comparative Biology, 65*. (Atlanta, GA, Talk)
+• **Ramesh, D.**, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
+Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength. *Bulletin of the American
+Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR24/Session/G38.12)
+• **Ramesh, D.**, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). Biological and robophysical experiments of terrestrial
+fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)
+• **Ramesh, D.**, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
+C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
+TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
 
 ## Master's Research
 Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis. The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system. Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller. Created an algorithm to automatically generate the optimum window of data where the robot enters the equilibrium state and stays there till the end of the periodic obstacles. Built a 3-dimensional reconstruction of the robot-obstacle interaction using the experiment results. Developed an algorithm to identify contact points between the obstacle and the legs, and on flat ground to help understand the change in contact point pattern when the robot shows different behaviors during the obstacle traversal.
