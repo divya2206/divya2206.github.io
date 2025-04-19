@@ -23,6 +23,22 @@ Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body c
 • **Divya Ramesh**, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
 complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
 
+• **Ramesh, D.**, Fu, Q., & Li, C. (2022). Studying force generation and control in snakes using a sensorized robot. *Bulletin of the
+American Physical Society, 67*. (Chicago, IL, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR22/Session/K03.12)
+
+• **Ramesh, D.**, Fu, Q., & Li, C. (2022). A snake robot to study force generation and control of limbless locomotion in 3-D terrain.
+*Integrative and Comparative Biology, 62*. (Virtual, Talk) [Abstract](https://sicb.burkclients.com/meetings/2022/schedule/abstractdetails.php?id=514)
+
+• **Ramesh, D.**, Fu, Q., Wang, K., Wang, Y., Othayoth, R., & Li, C. (2021). Development of a sensorized snake robot to study
+limbless locomotion in complex 3-D terrain. *International Symposium on Adaptive Motion of Animals and Machines*. (Virtual,
+Poster) [Abstract](https://web.archive.org/web/20220725212059id_/https:/ir.library.osaka-u.ac.jp/repo/ouka/all/84885/s60b5360e27c7d.pdf)
+
+• **Ramesh, D.**, Fu, Q., Wang, K., Othayoth Mullankandy, R. S., & Li, C. (2021). A sensorized robot to study physical interaction in
+limbless locomotion in complex 3-D terrain. *Bulletin of the American Physical Society, 66*. (Virtual, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR21/Session/R14.6)
+
+• **Ramesh, D.**, Fu, Q., Wang, K., Othayoth, R., & Li, C. (2021). A sensorized robophysical model to study snake locomotion
+in complex 3-D terrain. *Integrative and Comparative Biology, 61*. (Virtual, Talk) [Abstract](https://sicb.org/abstracts/a-sensorized-robophysical-model-to-study-snake-locomotion-in-complex-3-d-terrain/)
+
 ### (2) Amphibious fish locomotion on mud with various strengths:
 Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes moving on mud with varying mud strength. Developed tools and methods to characterize and control the mud strength during the study. Performed systematic study on the performance of mudskipper using appendicular locomotion and mode transitions on different mud strengths. Performed preliminary study on the performance of bichir using axial appendicular locomotion and ropefish using axial locomotion on different mud strengths. Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 
