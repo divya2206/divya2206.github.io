@@ -56,7 +56,7 @@ Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 20
 of the *American Physical Society, 64*. (Boston, MA, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/S64.14)
 
 ## Undergraduate Research
-<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 200px; margin: 0 20px 10px 0;">
+<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 100px; margin: 0 20px 10px 0;">
 <p style="margin-left: 220px;">
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
 </p>
