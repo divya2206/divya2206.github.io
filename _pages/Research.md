@@ -47,8 +47,10 @@ C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *I
 TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
 
 ## Master's Research
+<img src="/assets/ICRA_RAL_Masters.png" alt="Alt text" style="float: left; width: 150px; margin: 0 20px 10px 0;">
+<p style="margin-left: 220px;">
 Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis. The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system. Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller. Created an algorithm to automatically generate the optimum window of data where the robot enters the equilibrium state and stays there till the end of the periodic obstacles. Built a 3-dimensional reconstruction of the robot-obstacle interaction using the experiment results. Developed an algorithm to identify contact points between the obstacle and the legs, and on flat ground to help understand the change in contact point pattern when the robot shows different behaviors during the obstacle traversal.
-
+</p>
 • **Divya Ramesh**, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ”Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 
