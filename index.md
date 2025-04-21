@@ -42,6 +42,8 @@ I have mentored a total of 32 students at Terradynamics Lab (**31 students**) an
 
 I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
+As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, and ICB journals.  
+
 ## Selected Coursework
 
 I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and Master's at UPenn:
