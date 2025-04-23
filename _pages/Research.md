@@ -26,7 +26,7 @@ Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body c
 complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
 
 ### (2) Amphibious fish locomotion on mud with various strengths:
-<img src="/assets/AmphibiousFish.png" alt="Alt text" style="float: left; width: 150px; margin: 10px 20px 10px 0;">
+<img src="/assets/AmphibiousFish.png" alt="Alt text" style="float: left; width: 150px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;">
 Designed and conducted animal experiments with three model organisms to study three distinct strategies seen in amphibious fishes moving on mud with varying mud strength. Developed tools and methods to characterize and control the mud strength during the study. Performed systematic study on the performance of mudskipper using appendicular locomotion and mode transitions on different mud strengths. Performed preliminary study on the performance of bichir using axial appendicular locomotion and ropefish using axial locomotion on different mud strengths. Currently studying lifting in amphibious fishes using a robophysical model on different mud strengths.
 </p>
@@ -62,7 +62,7 @@ Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 20
 of the *American Physical Society, 64*. (Boston, MA, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/S64.14)
 
 ## Undergraduate Research
-<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 150px; margin: 0 50px 10px 0;">
+<img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 150px; margin: 0 50px 10px 20px;">
 <p style="margin-left: 220px;">
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
 </p>
