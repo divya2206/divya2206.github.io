@@ -24,6 +24,9 @@ Implemented and simulated a 2- LLS model for a fixed CoP (Center of Pressure) al
 ## Place and mark with intention using UR5
 Used UR5 interface to get the positions from the robot. Performed control trajectories with UR5 controlled using ROS RVIZ environment that involved inverse kinematics, resolved rate control, gradient control programmed in Matlab to perform the place and mark task. Programmed a code to perform the task of writing "RDKDC" on a piece of paper using the actual robot controlled using ROS RVIZ environment.
 
+## Model Based Learning
+Implemented a system that learns the model of a pendulum in Python. Used the learned model to implement a graph based learner that can compute a sequence of actions that ensures the pendulum can stay in an upright position.
+
 ## EKF SLAM
 Implemented a full SLAM system based on an Extended Kalman Filter in Python.
 
