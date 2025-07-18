@@ -13,6 +13,7 @@ header:
 
 ## Post-doctoral Research
 My research focuses on studying the kinematics of a fish school and understanding fish locomotion using a fish robot.
+• Yangfan Zhang, **Divya Ramesh**, Hungtang Ko, and George V. Lauder. "Fish locomotor variation: connecting energetics and kinematic modulation." *Philosophical Transactions of the Royal Society B* (Accepted).
 
 ## Doctoral Research
 My research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. It was divided into two parts based on the environment: (1) developing a sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrains and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation.
