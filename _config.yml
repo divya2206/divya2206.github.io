@@ -155,7 +155,7 @@ footer:
       icon: "fa-solid fa-x"
       url: "https://x.com/DivyaRa22"
     - label: "Bluesky"
-      icon: "fab fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/divyara.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
