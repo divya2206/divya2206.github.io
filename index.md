@@ -30,7 +30,7 @@ Prior to this, I pursued my MSE degree in Electrical Engineering from the Depart
 
 ## Publications, Awards & Honors
 
-My work has been published in [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l) (presented at ICRA 2020) and presented at [ICRA 2022](https://www.ieee-ras.org/component/rseventspro/event/2095-icra-2022). 2 journal preprints are currently under development from my Ph.D. research, and 1 journal preprint has been accepted from my postdoctoral research. 11 conference abstracts were presented at conferences including [APS](https://www.aps.org/membership/join) and [SICB](https://sicb.org/). 
+My work has been published in [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l) (presented at ICRA 2020) and presented at [ICRA 2022](https://www.ieee-ras.org/component/rseventspro/event/2095-icra-2022). 2 journal preprints are currently under development from my Ph.D. research. 1 journal preprint has been accepted and journal preprint has been submitted from my postdoctoral research. 11 conference abstracts were presented at conferences including [APS](https://www.aps.org/membership/join) and [SICB](https://sicb.org/). 
 
 I have been shortlisted (**8** finalists out of **210** talks selected) for the [Best Student Paper finalist (Division of Comparative Biomechanics)](https://sicb.burkclients.com/wp/?page_id=2124) at the SICB Annual Meeting in 2023. I have also received a Mechanical Engineering Departmental Fellowship for the first year of my Ph.D.
 
@@ -38,7 +38,7 @@ I have been shortlisted (**8** finalists out of **210** talks selected) for the 
 
 As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional, volunteer, and outreach services. 
 
-I have mentored a total of 32 students at Terradynamics Lab (**31 students**) and Kod*lab (**1 student**) including **1 PhD** student, **14 master’s** students, **10 undergraduate** students, and **7 high school** students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
+I have mentored a total of 33 students at Terradynamics Lab (**32 students**) and Kod*lab (**1 student**) including **1 PhD** student, **14 master’s** students, **11 undergraduate** students, and **7 high school** students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
 I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
