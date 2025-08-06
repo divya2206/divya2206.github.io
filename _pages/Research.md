@@ -14,6 +14,7 @@ header:
 ## Post-doctoral Research
 My research focuses on studying the kinematics of a fish school and understanding fish locomotion using a fish robot.
 
+• George V. Lauder, Connor F. White, **Divya Ramesh**, Yu Pan, Julia Chaumel, Yangfan Zhang. ”Six questions in fish locomotor biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (Submitted).
 • Yangfan Zhang, **Divya Ramesh**, Hungtang Ko, and George V. Lauder. "Fish locomotor variation: connecting energetics and kinematic modulation." *Philosophical Transactions of the Royal Society B* (Accepted).
 
 ## Doctoral Research
