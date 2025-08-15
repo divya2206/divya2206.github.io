@@ -42,11 +42,11 @@ I have mentored a total of 33 students at Terradynamics Lab (**32 students**) an
 
 I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
-As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, and ICB journals.  
+As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, ICB, and Behav. Ecol. Sociobiol. journals.  
 
 ## Selected Coursework
 
-I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and Master's at UPenn:
+I have taken courses in various topics during my academic studies. Here is a list of selected coursework from my Ph.D. at JHU and my Master's at UPenn:
 
 **Robotics and AI:** Nonlinear control and planning in robotics, Foundations of reinforcement learning, Learning in robotics, Machine
 learning
@@ -54,6 +54,6 @@ learning
 **Dynamics, Control, and Signal Processing:** Locomotion dynamics & control, Intro. to nonlinear dynamics and chaos, Dynamics of
 robots and spacecraft, Control systems for robotics, System identification, Linear systems theory, Digital signal processing
 
-**Electronics:** Analog integrated circuits, Mixed signal design and model
+**Electronics:** Analog integrated circuits, Mixed signal design, and model
 
 For more information, please see my [CV](https://www.dropbox.com/scl/fi/kl2rm6n52lqsv1vq9u58g/Divya_Ramesh_CV.pdf?rlkey=kj5oouwpvz9uk80yt1ifsxcg7&dl=0).
