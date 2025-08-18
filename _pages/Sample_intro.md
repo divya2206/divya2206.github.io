@@ -23,5 +23,5 @@ I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Bi
 My research focuses on understanding animal locomotion and bio-inspired robotics. My current work is in studying fish locomotion and fish robotics. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
 
 # Education
-<font-awesome-icon :icon="['fas', 'graduation-cap']" /> XX
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> XX
 
