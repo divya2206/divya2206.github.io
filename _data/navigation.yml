@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    #url: https://divya2206.github.io/
-    url: /about/
+    url: https://divya2206.github.io/
+    #url: /about/
   - title: "Publications"
     url: /publications/
   - title: "Press & Media"
