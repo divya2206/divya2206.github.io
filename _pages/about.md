@@ -1,6 +1,6 @@
 ---
 title: "About me"
-permalink: /media/
+permalink: /about/
 layout: single
 author_profile: true
 #sidebar:
