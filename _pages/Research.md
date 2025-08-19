@@ -62,9 +62,6 @@ Investigated the behavior and dynamics of legged robot during obstacle interacti
 • **Divya Ramesh**, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ”Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 
-• Qian, F., **Ramesh, D.**, & Koditschek, D. (2019). Towards Obstacle-aided Legged Locomotion in Cluttered Environments. Bulletin
-of the *American Physical Society, 64*. (Boston, MA, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/S64.14)
-
 ## Undergraduate Research
 <img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 150px; margin: 0 50px 10px 30px;">
 <p style="margin-left: 220px;">
