@@ -12,8 +12,8 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
-  #- title: "Test"
-    #url: /Media/
+  - title: "Test"
+    url: /Media/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
