@@ -42,7 +42,8 @@ I have mentored a total of 33 students at Terradynamics Lab (**32 students**) an
 
 I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
-As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, ICB, and Behav. Ecol. Sociobiol. journals.  
+As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, ICB, Behav. Ecol. Sociobiol., and Advanced
+Robotics Research journals.  
 
 ## Selected Coursework
 
