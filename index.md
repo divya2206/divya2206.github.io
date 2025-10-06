@@ -55,6 +55,6 @@ learning
 **Dynamics, Control, and Signal Processing:** Locomotion dynamics & control, Intro. to nonlinear dynamics and chaos, Dynamics of
 robots and spacecraft, Control systems for robotics, System identification, Linear systems theory, Digital signal processing
 
-**Electronics:** Analog integrated circuits, Mixed signal design, and model
+**Electronics:** Analog integrated circuits, Mixed signal design and model
 
 For more information, please see my [CV](https://www.dropbox.com/scl/fi/kl2rm6n52lqsv1vq9u58g/Divya_Ramesh_CV.pdf?rlkey=kj5oouwpvz9uk80yt1ifsxcg7&dl=0).
