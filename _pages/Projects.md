@@ -14,7 +14,7 @@ I have taken courses in various topics during my academic studies. Here is a lis
 
 ---
 ### Comparative study of reinforcement learning of heuristic gait learning in quadrupedal robot
-Oct 2021 - Dec 2021 | Johns Hopkins University
+#### Oct 2021 - Dec 2021 | Johns Hopkins University
 
 Implemented Improved Deep Deterministic Policy Gradient (DDPG) and TD3 on Ant-V2 model using OpenAI gym environment to find stable gait control.
 
