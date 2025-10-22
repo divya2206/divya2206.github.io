@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+layout: "archive"
 permalink: /projects/
 toc: false
 toc_icon: "list"
