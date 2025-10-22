@@ -37,6 +37,7 @@ Oct 2019 - Dec 2019 | Johns Hopkins University
 Used UR5 interface to get the positions from the robot. Performed control trajectories with UR5 controlled using ROS RVIZ environment that involved inverse kinematics, resolved rate control, gradient control programmed in Matlab to perform the place and mark task. Programmed a code to perform the task of writing "RDKDC" on a piece of paper using the actual robot controlled using ROS RVIZ environment.
 
 Demonstration video link [here](https://www.youtube.com/watch?v=aduOeCUExFI).
+[![](https://markdown-videos-api.jorgenkh.no/youtube/aduOeCUExFI)](https://youtu.be/aduOeCUExFI)
 
 ---
 ### Model Based Learning
