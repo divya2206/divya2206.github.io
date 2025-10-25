@@ -24,7 +24,7 @@ header:
     #btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
-<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 80px 20px 10px 0;">
+<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 20px 20px 10px 0;">
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>
 <br>
