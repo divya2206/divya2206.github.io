@@ -22,6 +22,12 @@ I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Bi
 
 My research focuses on understanding animal locomotion and bio-inspired robotics. My current work is in studying fish locomotion and fish robotics. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
 
+### Education
+<i class="fa-solid fa-graduation-cap"></i>
+
+
+
+
 ## Education & Research
 
 I pursued my Ph.D. degree in [Mechanical Engineering](https://me.jhu.edu/) from 2019 to 2024 under the supervision of Prof. [Chen Li](https://engineering.jhu.edu/faculty/chen-li/) at [Terradynamics Lab](https://li.me.jhu.edu/) from [Johns Hopkins University](https://www.jhu.edu/) (JHU). My research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. This work was divided into two parts based on the environment: (1) developing a sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrain and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation. During my doctoral degree program, I also received my MSE degree in Robotics from the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) at JHU in 2024. 
