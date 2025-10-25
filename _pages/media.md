@@ -24,7 +24,7 @@ header:
     #btn_label: "Read"
 ---
 ## Amphibious fishes moving on mud
-<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 20px 20px 10px 0;">
+<img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;">
 <a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>
 <br>
@@ -42,11 +42,9 @@ header:
 <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;"> 
 <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/" target="_blank">Technical.ly – Philly Tech Week</a>
-</p>
-<p style="margin-left: 220px;"> 
+<br>
 <a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35" target="_blank">Medium – Philly Tech Week</a>
-</p>
-<p style="margin-left: 220px;"> 
+<br>
 <a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/" target="_blank">Penn Blog – Philadelphia Mini Maker Faire</a>
 </p>
 <p align="left">
