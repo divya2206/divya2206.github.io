@@ -22,7 +22,7 @@ I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Bi
 
 My research focuses on understanding animal locomotion and bio-inspired robotics. My current work is in studying fish locomotion and fish robotics. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
 <div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 0px;">
     <h3>Education</h3>
     <i class="fa-solid fa-graduation-cap"></i> Ph.D. in Mechanical Engineering, 2024 
     <br>
@@ -32,7 +32,7 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
     <br>
     <i class="fa-solid fa-graduation-cap"></i> B.Tech in Electronics and Communication Engineering, 2017 
   </div>
-  <div style="flex: 1; padding-left: 5px;">
+  <div style="flex: 1; padding-left: 0px;">
     <h3>Interests</h3>
     Bio-inspired Robotics
     <br>
