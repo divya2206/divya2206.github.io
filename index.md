@@ -21,7 +21,22 @@ header:
 I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Biology](https://www.oeb.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I am a member of [Lauder Lab](https://sites.harvard.edu/glauder/) which is led by Prof. [George V. Lauder](https://www.oeb.harvard.edu/people/george-v-lauder). 
 
 My research focuses on understanding animal locomotion and bio-inspired robotics. My current work is in studying fish locomotion and fish robotics. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    ### Education
+    <i class="fa-solid fa-graduation-cap"></i> Ph.D. in Mechanical Engineering, 2024 \
+    <i class="fa-solid fa-graduation-cap"></i> MSE in Robotics, 2024 \
+    <i class="fa-solid fa-graduation-cap"></i> MSE in Electrical Engineering, 2019 \
+    <i class="fa-solid fa-graduation-cap"></i> B.Tech in Electronics and Communication Engineering, 2017 
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    ### Interests
+    Bio-inspired Robotics
+    Animal Locomotion
+    Terradynamics
+    Robophysics
+  </div>
+</div>
 ### Education
 <i class="fa-solid fa-graduation-cap"></i> Ph.D. in Mechanical Engineering, 2024 \
 <i class="fa-solid fa-graduation-cap"></i> MSE in Robotics, 2024 \
