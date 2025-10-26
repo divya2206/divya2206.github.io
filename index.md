@@ -37,8 +37,7 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
     Univ. of Pennsylvania
     <br> 
     <i class="fa-solid fa-graduation-cap"></i> B.Tech in Electronics and Communication Engineering, 2017
-    <br> VIT University
-    
+    <br> VIT University 
   </div>
   <div style="flex: 0.75; padding-left: 0px;">
     <h3>Interests</h3>
