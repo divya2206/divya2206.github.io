@@ -54,7 +54,7 @@ Prior to this, I pursued my MSE degree in Electrical Engineering from the Depart
 
 ## Publications, Awards & Honors
 
-My work has been published in [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l) (presented at ICRA 2020) and presented at [ICRA 2022](https://www.ieee-ras.org/component/rseventspro/event/2095-icra-2022). 2 journal preprints are currently under development from my Ph.D. research. 1 journal preprint has been accepted, and 1 journal preprint has been submitted from my postdoctoral research. <span style="color: #FF5C77;">green text</span>11 conference abstracts were presented at conferences including [APS](https://www.aps.org/membership/join) and [SICB](https://sicb.org/). 
+My work has been published in [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l) (presented at ICRA 2020) and presented at [ICRA 2022](https://www.ieee-ras.org/component/rseventspro/event/2095-icra-2022). 2 journal preprints are currently under development from my Ph.D. research. 1 journal preprint has been accepted, and 1 journal preprint has been submitted from my postdoctoral research. <span style="color: #C05780;">green text</span>11 conference abstracts were presented at conferences including [APS](https://www.aps.org/membership/join) and [SICB](https://sicb.org/). 
 
 I have been shortlisted (**8** finalists out of **210** talks selected) for the [Best Student Paper finalist (Division of Comparative Biomechanics)](https://sicb.burkclients.com/wp/?page_id=2124) at the SICB Annual Meeting in 2023. I have also received a **Mechanical Engineering Departmental Fellowship** for the first year of my Ph.D. and a **Merit Scholarship** for the first and second years of my undergraduate studies.
 
