@@ -32,7 +32,7 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
     <br>
     <i class="fa-solid fa-graduation-cap"></i> B.Tech in Electronics and Communication Engineering, 2017 
   </div>
-  <div style="flex: 0.5; padding-left: 100px;">
+  <div style="flex: 0.5; padding-left: 0px;">
     <h3>Interests</h3>
     Bio-inspired Robotics
     <br>
