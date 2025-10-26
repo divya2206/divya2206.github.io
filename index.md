@@ -36,6 +36,10 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
     <h3>Interests</h3>
     Bio-inspired Robotics
     <br>
+    Robot-obstacle Interaction
+    <br>
+    Robot-terrain Interaction
+    <br>
     Animal Locomotion
     <br>
     Terradynamics
