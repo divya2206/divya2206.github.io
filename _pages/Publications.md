@@ -24,7 +24,7 @@ biology and the technical approaches needed to address them.” *Journal of Expe
 kinematic modulation." *Philosophical Transactions of the Royal Society B* (Accepted).
 3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. "Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions." *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
-4. †Rakshith, M. N., †<span style="color: #FF6F68;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. "An efficient assistive system for the visually impaired."
+4. †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. "An efficient assistive system for the visually impaired."
 *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). [PDF](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) (†Equal contribution)
 
 ### Conference Papers
@@ -46,7 +46,7 @@ Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.o
 fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
 C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
-TX, Talk; <span style="color: #EC410B;">Best Student Paper Competition Finalist</span>) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
+TX, Talk; <span style="color: #FF6F68;">Best Student Paper Competition Finalist</span>) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). Studying force generation and control in snakes using a sensorized robot. *Bulletin of the
 American Physical Society, 67*. (Chicago, IL, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR22/Session/K03.12)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). A snake robot to study force generation and control of limbless locomotion in 3-D terrain.
