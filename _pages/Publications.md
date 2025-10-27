@@ -24,7 +24,7 @@ biology and the technical approaches needed to address them.” *Journal of Expe
 kinematic modulation." *Philosophical Transactions of the Royal Society B* (Accepted).
 3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. "Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions." *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
-4. †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. "An efficient assistive system for the visually impaired."
+4. †Rakshith, M. N., †<span style="color: #FF6F68;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. "An efficient assistive system for the visually impaired."
 *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). [PDF](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) (†Equal contribution)
 
 ### Conference Papers
