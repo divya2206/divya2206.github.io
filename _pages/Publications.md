@@ -34,31 +34,31 @@ complex 3-D terrain.” *2022 International Conference on Robotics and Automatio
 
 ## Contributed Conference Abstracts
 
-1. <span style="color: #FF60A8;">Divya Ramesh</span>, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
+1. <span style="color: #FF60A8;">Ramesh, D.</span>, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
 C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology, 65*. (Atlanta,
 GA, Talk) [Abstract](https://www.xcdsystem.com/sicb/program/fZq6Sh8/index.cfm?pgid=1951)
-2. Sadalgekar, G., <span style="color: #FF60A8;">Divya Ramesh</span>, & Li, C. (2025). Using robophysical models to study the performance landscape of terrestrial fish
+2. Sadalgekar, G., <span style="color: #FF60A8;">Ramesh, D.</span>, & Li, C. (2025). Using robophysical models to study the performance landscape of terrestrial fish
 locomotion. *Integrative and Comparative Biology, 65*. (Atlanta, GA, Talk) [Abstract](https://www.xcdsystem.com/sicb/program/fZq6Sh8/index.cfm?pgid=1951)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
 Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength. *Bulletin of the American
 Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR24/Session/G38.12)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). Biological and robophysical experiments of terrestrial
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). Biological and robophysical experiments of terrestrial
 fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
 C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
 TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., & Li, C. (2022). Studying force generation and control in snakes using a sensorized robot. *Bulletin of the
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). Studying force generation and control in snakes using a sensorized robot. *Bulletin of the
 American Physical Society, 67*. (Chicago, IL, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR22/Session/K03.12)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., & Li, C. (2022). A snake robot to study force generation and control of limbless locomotion in 3-D terrain.
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). A snake robot to study force generation and control of limbless locomotion in 3-D terrain.
 *Integrative and Comparative Biology, 62*. (Virtual, Talk) [Abstract](https://sicb.burkclients.com/meetings/2022/schedule/abstractdetails.php?id=514)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., Wang, K., Wang, Y., Othayoth, R., & Li, C. (2021). Development of a sensorized snake robot to study
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Wang, K., Wang, Y., Othayoth, R., & Li, C. (2021). Development of a sensorized snake robot to study
 limbless locomotion in complex 3-D terrain. *International Symposium on Adaptive Motion of Animals and Machines*. (Virtual,
 Poster) [Abstract](https://web.archive.org/web/20220725212059id_/https:/ir.library.osaka-u.ac.jp/repo/ouka/all/84885/s60b5360e27c7d.pdf)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., Wang, K., Othayoth Mullankandy, R. S., & Li, C. (2021). A sensorized robot to study physical interaction in
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Wang, K., Othayoth Mullankandy, R. S., & Li, C. (2021). A sensorized robot to study physical interaction in
 limbless locomotion in complex 3-D terrain. *Bulletin of the American Physical Society, 66*. (Virtual, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR21/Session/R14.6)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Fu, Q., Wang, K., Othayoth, R., & Li, C. (2021). A sensorized robophysical model to study snake locomotion
+3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Wang, K., Othayoth, R., & Li, C. (2021). A sensorized robophysical model to study snake locomotion
 in complex 3-D terrain. *Integrative and Comparative Biology, 61*. (Virtual, Talk) [Abstract](https://sicb.org/abstracts/a-sensorized-robophysical-model-to-study-snake-locomotion-in-complex-3-d-terrain/)
-3. Qian, F., <span style="color: #FF60A8;">Divya Ramesh</span>, & Koditschek, D. (2019). Towards Obstacle-aided Legged Locomotion in Cluttered Environments. Bulletin
+3. Qian, F., <span style="color: #FF60A8;">Ramesh, D.</span>, & Koditschek, D. (2019). Towards Obstacle-aided Legged Locomotion in Cluttered Environments. Bulletin
 of the *American Physical Society, 64*. (Boston, MA, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/S64.14)
 
 ## Dissertation & Thesis
