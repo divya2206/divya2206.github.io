@@ -46,7 +46,7 @@ Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.o
 fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
 C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
-TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
+TX, Talk; <span style="color: #EC410B;">Best Student Paper Competition Finalist</span>) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). Studying force generation and control in snakes using a sensorized robot. *Bulletin of the
 American Physical Society, 67*. (Chicago, IL, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR22/Session/K03.12)
 3. <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., & Li, C. (2022). A snake robot to study force generation and control of limbless locomotion in 3-D terrain.
