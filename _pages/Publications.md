@@ -65,3 +65,4 @@ of the *American Physical Society, 64*. (Boston, MA, Talk) [Abstract](https://me
 
 1. <span style="color: #FF60A8;">Divya Ramesh</span> (2024). Non-legged locomotion on complex 3-D terrain and wet flowable substrates (Doctoral dissertation, Johns Hopkins University). [PDF](https://jscholarship.library.jhu.edu/items/034d9c8b-dec8-44cb-9077-23ca4cdfb74e)
 2. <span style="color: #FF60A8;">Divya Ramesh</span> (2019). Emergent Dynamics of Legged Robot during Obstacle Interaction (Master's thesis, University of Pennsylvania). [PDF](https://find.library.upenn.edu/catalog/9977572430803681?hld_id=22597515380003681)
+3. <span style="color: #FF60A8;">Divya Ramesh</span> (2017). An Assistive System for the Visually Impaired (Undergraduate thesis, VIT University).
