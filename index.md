@@ -68,7 +68,7 @@ As part of my academic development, I have had the opportunity to mentor and tea
 
 I have mentored a total of <span style="color: #FF60A8;">33</span> students at Terradynamics Lab (<span style="color: #FF60A8;">32</span> students) and Kod*lab (<span style="color: #FF60A8;">1</span> student), including <span style="color: #FF60A8;">1 PhD</span> student, <span style="color: #FF60A8;">14 master’s</span> students, <span style="color: #FF60A8;">11 undergraduate</span> students, and <span style="color: #FF60A8;">7 high school</span> students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
-I have served as Social Chair for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as Student Head for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
+I have served as <span style="color: #FF6F68;">Social Chair</span> for the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) during my Ph.D. and as <span style="color: #FF6F68;">Student Head</span> for the [IEEE Power and Energy Society VIT Student Chapter](https://stage.vit.ac.in/campus/Chapters/IEEEChapters) during my undergraduate studies. I have taken other roles in committees, panels, and chapters during my Ph.D and undergraduate studies. 
 
 As part of my professional service, I have reviewed papers from IEEE RA-L, JRM, ICB, Behav. Ecol. Sociobiol., and Advanced
 Robotics Research journals.  
