@@ -34,19 +34,19 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
   </div>
   <div style="flex: 0.75; padding-left: 0px;">
     <h3>Interests</h3>
-    Bio-inspired Robotics
+    • Bio-inspired Robotics
     <br>
-    Robot-obstacle Interaction
+    • Robot-obstacle Interaction
     <br>
-    Animal Locomotion
+    • Animal Locomotion
     <br>
-    Animal-substrate Interaction
+    • Animal-substrate Interaction
     <br>
-    Terradynamics
+    • Terradynamics
     <br>
-    Robophysics
+    • Robophysics
     <br>
-    Hydrodynamic Interaction
+    • Hydrodynamic Interaction
   </div>
 </div>
 
