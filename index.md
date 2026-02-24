@@ -26,19 +26,11 @@ My research focuses on understanding animal locomotion and bio-inspired robotics
     <h3>Education</h3>
     <i class="fa-solid fa-graduation-cap"></i> Ph.D. in Mechanical Engineering, 2024
     <br> 
-    Johns Hopkins Univ.
-    <br> 
     <i class="fa-solid fa-graduation-cap"></i> MSE in Robotics, 2024
-    <br> 
-    Johns Hopkins Univ.
     <br>
     <i class="fa-solid fa-graduation-cap"></i> MSE in Electrical Engineering, 2019
     <br> 
-    Univ. of Pennsylvania
-    <br> 
     <i class="fa-solid fa-graduation-cap"></i> B.Tech in Electronics and Communication Engineering, 2017
-    <br> 
-    VIT Univ.
   </div>
   <div style="flex: 0.75; padding-left: 0px;">
     <h3>Interests</h3>
