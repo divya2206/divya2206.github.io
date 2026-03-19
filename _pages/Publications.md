@@ -21,7 +21,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. ”Six questions in fish locomotor
 biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (Accepted).
 2.  Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. "Fish locomotor variation: connecting energetics and
-kinematic modulation." *Philosophical Transactions of the Royal Society B* (Accepted).
+kinematic modulation." *Philos Trans R Soc Lond B Biol Sci,* Vol 381 Issue 1946 (2026). [PDF](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting)
 3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. "Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions." *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
 4. †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. "An efficient assistive system for the visually impaired."
