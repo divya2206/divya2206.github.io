@@ -15,7 +15,7 @@ header:
 My research focuses on studying the kinematics of a fish school and understanding hydrodynamic interaction using a fish robot. I developed 2-D tracking, 3-D reconstruction, and kinematic analysis pipelines for studying kinematic modulation of individual fish and fish schools when swimming under laminar and turbulent flow at different flow speeds. I also studied the hydrodynamic interaction of a fish robot swimming into and station holding in different wakes using PIV analysis.
 
 • George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. ”Six questions in fish locomotor biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (Accepted).\
-• Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. "Locomotor variation of fishes: connecting energetics and kinematic modulation." *Philos Trans R Soc Lond B Biol Sci,* Vol 381 Issue 1946 (2026). [PDF](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting)\
+• Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. "Locomotor variation of fishes: connecting energetics and kinematic modulation." *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). [PDF](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting)\
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Panta, K., Zhang, Y., Cheng, B., & Lauder, G. V. (2026). Fish robotics Part 1: navigating and sensing a complex flow landscape with feedback control. *Integrative and Comparative Biology*. (Portland, OR, Talk)
 
 ## Doctoral Research
