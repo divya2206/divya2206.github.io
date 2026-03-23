@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 classes: wide
 header:
-  overlay_image: /assets/Water2_short.jpeg
+  overlay_image: /assets/Water2_short1.jpeg
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 
