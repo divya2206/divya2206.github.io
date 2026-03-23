@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 classes: wide
 header:
-  overlay_image: /assets/Image_water.jpg
+  overlay_image: /assets/Water3.jpeg
   overlay_color: "#000" #overlay_filter: "0.5"
 ---
 I have taken courses in various topics during my academic studies. Here is a list of course projects from my Ph.D. at JHU and my Master’s at UPenn:
