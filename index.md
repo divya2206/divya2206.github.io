@@ -20,7 +20,7 @@ header:
 
 I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Biology](https://www.oeb.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I am a member of [Lauder Lab](https://sites.harvard.edu/glauder/), which is led by Prof. [George V. Lauder](https://www.oeb.harvard.edu/people/george-v-lauder). 
 
-My research focuses on understanding **animal locomotion** and **bio-inspired robotics**. I study how animals and robots interact with the environment on **3-D complex terrain**, at the **water-land interface**, and in **water**. My current work is in studying fish locomotion and fish robotics. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
+My research focuses on understanding **animal locomotion** and **bio-inspired robotics**. I study how animals and robots interact with the environment on **3-D complex terrain**, at the **water-land interface**, and in **water**. My current work is in studying fish locomotion in water and understanding the hydrodynamic interaction of fish robots. My previous research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. I have experience in systematic study of animal and robot locomotion, developing tools and methods, building robots and sensors, and reinforcement learning techniques.
 <div style="display: flex;">
   <div style="flex: 1.25; padding-right: 0px;">
     <h3>Education</h3>
