@@ -19,7 +19,7 @@ My research focuses on studying the kinematics of a fish school and understandin
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Panta, K., Zhang, Y., Cheng, B., & Lauder, G. V. (2026). Fish robotics Part 1: navigating and sensing a complex flow landscape with feedback control. *Integrative and Comparative Biology*. (Portland, OR, Talk)
 
 ## Doctoral Research
-My research focused on studying and understanding animal and robot locomotion on 3-D complex terrain and wet flowable substrates. It was divided into two parts based on the environment: (1) developing a novel sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrains and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation.
+My research focused on studying and understanding animal and robot locomotion on complex 3-D terrain and wet flowable substrates. It was divided into two parts based on the environment: (1) developing a novel sensorized snake robot to study the use of tactile sensing in snakes to traverse complex 3-D terrains and (2) studying and understanding amphibious fish locomotion on mud with mud strength variation.
 
 ### (1) Sensorized snake robot to understand snake locomotion on complex 3-D environment:
 <img src="/assets/Sensnake2.png" alt="Alt text" style="float: left; width: 200px; margin: 10px 20px 10px 0;">
