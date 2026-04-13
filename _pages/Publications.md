@@ -19,7 +19,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 ### Journal Articles
 
 1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. ”Six questions in fish locomotor
-biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (Accepted).
+biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (2026) 229 (7): jeb251375. [PDF](https://journals.biologists.com/jeb/article-abstract/229/7/jeb251375/371325/Six-questions-in-fish-locomotor-biology-and-the?redirectedFrom=fulltext)
 2.  Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. "Locomotor variation of fishes: connecting energetics and kinematic modulation." *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). [PDF](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting)
 3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. "Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions." *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
