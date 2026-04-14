@@ -32,7 +32,7 @@ Contact Positions." *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054
 complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
 
 ## Contributed Conference Abstracts
-1. Sadalgekar, G., <span style="color: #FF60A8;">Ramesh, D.</span>, & Li, C. (2026). Comparing terrestrial locomotion strategies of amphibious fish using robophysical models. *Bulletin of the American Physical Society*. (Denver, CO, Talk)
+1. Sadalgekar, G., <span style="color: #FF60A8;">Ramesh, D.</span>, & Li, C. (2026). Comparing terrestrial locomotion strategies of amphibious fish using robophysical models. *APS Global Physics Summit*. (Denver, CO, Talk)
 2. <span style="color: #FF60A8;">Ramesh, D.</span>, Panta, K., Zhang, Y., Cheng, B., & Lauder, G. V. (2026). Fish robotics Part 1: navigating and sensing a complex flow landscape with feedback control. *Integrative and Comparative Biology, 66*. (Portland, OR, Talk)
 3. Panta, K., <span style="color: #FF60A8;">Ramesh, D.</span>, Zhang, Y., Lauder, G. V., & Cheng, B. (2026). Fish robotics Part 2: visual and pressure feedback for efficient station holding in non-uniform flow. *Integrative and Comparative Biology, 66*. (Portland, OR, Talk)
 4. Zhang, Y., <span style="color: #FF60A8;">Ramesh, D.</span>, & Lauder, G. V. (2026). Beyond fish in formations: a two-tier approach to studying kinematic modulation in schooling fish. *Integrative and Comparative Biology, 66*. (Portland, OR, Talk)
