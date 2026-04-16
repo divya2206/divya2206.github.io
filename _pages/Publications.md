@@ -27,8 +27,8 @@ Contact Positions."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=89
 
 ### Conference Papers
 
-1. <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
-complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
+1. <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [”SenSnake: A snake robot with contact force sensing for studying locomotion in
+complex 3-D terrain.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159) *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022.
 
 ## Contributed Conference Abstracts
 1. Sadalgekar, G., <span style="color: #FF60A8;">Ramesh, D.</span>, & Li, C. (2026). Comparing terrestrial locomotion strategies of amphibious fish using robophysical models. *APS Global Physics Summit*. (Denver, CO, Talk)
