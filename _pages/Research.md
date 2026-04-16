@@ -59,4 +59,4 @@ Investigated the behavior and dynamics of legged robot during obstacle interacti
 <p style="margin-left: 220px;">
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
 </p>
-• †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. [”An efficient assistive system for the visually impaired.”](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). (†Equal contribution)
+• †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. ”An efficient assistive system for the visually impaired.”[dd](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). (†Equal contribution)
