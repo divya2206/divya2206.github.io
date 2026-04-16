@@ -14,8 +14,8 @@ header:
 ## Post-doctoral Research
 My research focuses on studying the kinematics of fish schooling and understanding hydrodynamic interaction using a fish robot. I developed 2-D tracking, 3-D reconstruction, and kinematic analysis pipelines for studying kinematic modulation of individual fish and fish schools. I also studied the hydrodynamic interaction of a fish robot swimming into and station holding in different wakes using PIV analysis.
 
-• George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. ”Six questions in fish locomotor biology and the technical approaches needed to address them.” *Journal of Experimental Biology* (2026) 229 (7): jeb251375. [PDF](https://journals.biologists.com/jeb/article-abstract/229/7/jeb251375/371325/Six-questions-in-fish-locomotor-biology-and-the?redirectedFrom=fulltext)\
-• Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. "Locomotor variation of fishes: connecting energetics and kinematic modulation." *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). [PDF](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting)\
+• George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. [”Six questions in fish locomotor biology and the technical approaches needed to address them.”](https://journals.biologists.com/jeb/article-abstract/229/7/jeb251375/371325/Six-questions-in-fish-locomotor-biology-and-the?redirectedFrom=fulltext) *Journal of Experimental Biology* (2026) 229 (7): jeb251375.\
+• Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. ["Locomotor variation of fishes: connecting energetics and kinematic modulation."](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting) *Phil. Trans. R. Soc. B,* 381: 20250070 (2026).\
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Panta, K., Zhang, Y., Cheng, B., & Lauder, G. V. (2026). Fish robotics Part 1: navigating and sensing a complex flow landscape with feedback control. *Integrative and Comparative Biology, 66*. (Portland, OR, Talk)
 
 ## Doctoral Research
@@ -26,8 +26,8 @@ My research focused on studying and understanding animal and robot locomotion on
 <p style="margin-left: 220px;">
 Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body contact forces to traverse a complex 3-D environment. Explored a model-based calibration considering the viscoelastic behavior of the piezoresistive sensor, which will be useful for future studies. Developed a force estimation model using the model-based calibration to estimate forces based on sensor input.
 </p>
-• <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. ”SenSnake: A snake robot with contact force sensing for studying locomotion in
-complex 3-D terrain.” *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159)
+• <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [”SenSnake: A snake robot with contact force sensing for studying locomotion in
+complex 3-D terrain.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159) *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022.
 
 ### (2) Amphibious fish locomotion on mud with various strengths:
 <img src="/assets/AmphibiousFish.png" alt="Alt text" style="float: left; width: 150px; margin: 30px 20px 10px 30px;">
@@ -37,29 +37,27 @@ Designed and conducted animal experiments with three model organisms to study th
 • 2 journal preprints have been submitted.
 
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
-C. (2025). Use of body lifting by elongate amphibious fishes to move on mud. *Integrative and Comparative Biology, 65*. (Atlanta,
-GA, Talk) [Abstract](https://www.xcdsystem.com/sicb/program/fZq6Sh8/index.cfm?pgid=1951)\
+C. (2025). [Use of body lifting by elongate amphibious fishes to move on mud](https://www.xcdsystem.com/sicb/program/fZq6Sh8/index.cfm?pgid=1951). *Integrative and Comparative Biology, 65*. (Atlanta,
+GA, Talk)\
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
-Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength. *Bulletin of the American
-Physical Society, 69*. (Minneapolis, MN, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR24/Session/G38.12)\
-• <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). Biological and robophysical experiments of terrestrial
-fish locomotion on mud of controlled, variable strength. *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S10.11)\
+[Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength](https://meetings.aps.org/Meeting/MAR24/Session/G38.12). *Bulletin of the American
+Physical Society, 69*. (Minneapolis, MN, Talk)\
+• <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Fu, Q., Souders, Z., Rao, J., & Li, C. (2023). [Biological and robophysical experiments of terrestrial
+fish locomotion on mud of controlled, variable strength](https://meetings.aps.org/Meeting/MAR23/Session/S10.11). *Bulletin of the American Physical Society, 68*. (Vegas, NV, Talk) \
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Fu, Q., Sadalgekar, G., Souders, Z., Tan, J., Moon, L., Rao, J., Urban, M., Ivanova, M., Mehta., K. K., An, L., & Li,
-C. (2023). Studying terrestrial fish locomotion on wet deformable substrates. *Integrative and Comparative Biology, 63*. (Austin,
-TX, Talk; Best Student Paper Competition Finalist) [Abstract](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132)
+C. (2023). [Studying terrestrial fish locomotion on wet deformable substrates](https://www.xcdsystem.com/sicb/program/5X9OIbU/index.cfm?pgid=377&sid=9037&abid=33132). *Integrative and Comparative Biology, 63*. (Austin, TX, Talk; Best Student Paper Competition Finalist) 
 
 ## Master's Research
 <img src="/assets/ICRA_RAL_Masters.jpeg" alt="Alt text" style="float: left; width: 200px; margin: 100px 20px 10px 0;">
 <p style="margin-left: 220px;">
 Investigated the behavior and dynamics of legged robot during obstacle interaction under the guidance of Prof. Daniel E. Koditschek as part of master’s thesis. The objective is to model the complex non-linear behavior of robot-obstacle interaction into a simple linear system. Programmed the HQRHEX robot using C++ that allowed the robot to move with different gaits and stride frequency using a controller. Created an algorithm to automatically generate the optimum window of data where the robot enters the equilibrium state and stays there till the end of the periodic obstacles. Built a 3-dimensional reconstruction of the robot-obstacle interaction using the experiment results. Developed an algorithm to identify contact points between the obstacle and the legs, and on flat ground to help understand the change in contact point pattern when the robot shows different behaviors during the obstacle traversal.
 </p>
-• <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ”Modulation of Robot Orientation via Leg-Obstacle
-Contact Positions.” *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332)
+• <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. [”Modulation of Robot Orientation via Leg-Obstacle
+Contact Positions.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332) *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061.
 
 ## Undergraduate Research
 <img src="/assets/Undergrad_thesis.png" alt="Alt text" style="float: left; width: 150px; margin: 0 50px 10px 30px;">
 <p style="margin-left: 220px;">
 Developed an Assistive Device for the Visually Impaired as part of the undergraduate thesis. Programmed ARM Cortex M3 processor using embedded C language to collect the values from two distance sensors, calculate the distance and transmit it wirelessly to a web page.
 </p>
-• †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. ”An efficient assistive system for the visually impaired.”
-*ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). [PDF](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) (†Equal contribution)
+• †Rakshith, M. N., †<span style="color: #FF60A8;">Divya Ramesh</span>, S. Sundar, and M. Shanmugasundaram. [”An efficient assistive system for the visually impaired.”](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). (†Equal contribution)
