@@ -24,7 +24,7 @@ header:
     #btn_label: "Read"
 ---
 ## Kinematic modulation in fish schooling
-<img src="/assets/fish schooling_crop.jpeg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
+<img src="/assets/fish schooling_crop.jpeg" alt="Alt text" style="float: left; width: 100px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;">
 <a href="https://www.mcz.harvard.edu/news/2026/03/embracing-variability-comparative-physiology" target="_blank">Department of Organismic and Evolutionary Biology News - Embracing Variability in Comparative Physiology</a>
 </p>
