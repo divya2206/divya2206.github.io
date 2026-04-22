@@ -66,7 +66,7 @@ I have been shortlisted (<span style="color: #FF60A8;">8</span> finalists out of
 
 ## Mentorship & Service
 
-As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional, volunteer, and outreach services. 
+As part of my academic development, I have had the opportunity to mentor and teach students, take leadership roles, and participate in professional and outreach services. 
 
 I have mentored a total of <span style="color: #FF60A8;">34</span> individuals. This includes <span style="color: #FF60A8;">1</span> research assistant at Harvard University and <span style="color: #FF60A8;">33</span> students at Terradynamics Lab (<span style="color: #FF60A8;">32</span> students) and Kod*lab (<span style="color: #FF60A8;">1</span> student), including <span style="color: #FF60A8;">1 PhD</span> student, <span style="color: #FF60A8;">14 master’s</span> students, <span style="color: #FF60A8;">11 undergraduate</span> students, and <span style="color: #FF60A8;">7 high school</span> students in animal studies, bioinspired robot design and prototyping, and tools and methods development. I was also a teaching assistant for 2 courses during my Ph.D. at JHU and 1 course during my Master's at UPenn. 
 
