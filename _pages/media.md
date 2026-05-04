@@ -45,7 +45,7 @@ Wild Kratts show – <a href="https://pbskids.org/videos/watch/fish-out-of-water
 </p>
 
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
-<img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
+<img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 5px 0;">
 <p style="margin-left: 220px;"> 
 Technical.ly – <a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/" target="_blank">"Leggy bots, flying bots, building bots: Here’s what Penn’s robotics hub is up to"</a>
 <br>
