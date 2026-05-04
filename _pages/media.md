@@ -38,7 +38,7 @@ Johns Hopkins University Department of Mechanical Engineering News - <a href="ht
 <br>
 APS News - <a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs" target="_blank">From Mudskippers to Jellyfish, Aquatic Animals Inspire Robot Designs</a>
 <br>
-<a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713" target="_blank">Wild Kratts show – Fish Out of Water</a>
+Wild Kratts show – <a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713" target="_blank">Fish Out of Water</a>
 </p>
 <p align="left">
   <small>Image Credit: Wild Kratts show</small>
