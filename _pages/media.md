@@ -26,17 +26,17 @@ header:
 ## Kinematic modulation in fish schooling
 <img src="/assets/cropped fish schooling.jpeg" alt="Alt text" style="float: left; width: 200px; margin: 10px 20px 10px 5px;">
 <p style="margin-left: 220px;">
-<a href="https://www.oeb.harvard.edu/news/2026/03/embracing-variability-comparative-physiology" target="_blank">Dept of Organismic and Evolutionary Biology News - Embracing Variability in Comparative Physiology</a>
+<a href="https://www.oeb.harvard.edu/news/2026/03/embracing-variability-comparative-physiology" target="_blank">Dept. of Organismic and Evolutionary Biology News - Embracing Variability in Comparative Physiology</a>
 </p>
 
 ## Amphibious fishes moving on mud
 <img src="/assets/KrattBrothers.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;">
-<a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - Wild Kratts show</a>
+<a href="https://engineering.jhu.edu/news/pbss-wild-kratts-visit-chen-lis-terradynamics-lab/" target="_blank">Johns Hopkins University Whiting School of Engineering News - PBS’s Wild Kratts Visit Chen Li’s Terradynamics Lab</a>
 <br>
-<a href="https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/" target="_blank">Johns Hopkins University Department of Mechanical Engineering News - APS News</a> 
+<a href="https://me.jhu.edu/news/phd-student-shares-work-on-robotics-inspired-by-mudskippers-at-american-physical-society-march-meeting/" target="_blank">Johns Hopkins University Department of Mechanical Engineering News - PhD student shares work on robotics inspired by mudskippers at American Physical Society March Meeting</a> 
 <br>
-<a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs" target="_blank">APS News</a>
+<a href="https://www.aps.org/apsnews/2024/04/mudskippers-jellyfish-inspire-robot-designs" target="_blank">APS News - From Mudskippers to Jellyfish, Aquatic Animals Inspire Robot Designs</a>
 <br>
 <a href="https://pbskids.org/videos/watch/fish-out-of-water/1485713" target="_blank">Wild Kratts show – Fish Out of Water</a>
 </p>
@@ -47,11 +47,11 @@ header:
 ## Legged robot - Outreach & Volunteer activities for Kod*lab
 <img src="/assets/Meium.jpg" alt="Alt text" style="float: left; width: 200px; margin: 30px 20px 10px 0;">
 <p style="margin-left: 220px;"> 
-<a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/" target="_blank">Technical.ly – Philly Tech Week</a>
+<a href="https://technical.ly/startups/pennovation-robotics-hub-bots-showcase-philly-tech-week/" target="_blank">Technical.ly – Leggy bots, flying bots, building bots: Here’s what Penn’s robotics hub is up to</a>
 <br>
-<a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35" target="_blank">Medium – Philly Tech Week</a>
+<a href="https://medium.com/penn-engineering/for-philly-tech-week-a-showcase-for-cutting-edge-robots-ff8d36988a35" target="_blank">Medium – For Philly Tech Week, a Showcase for Cutting-edge Robots</a>
 <br>
-<a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/" target="_blank">Penn Blog – Philadelphia Mini Maker Faire</a>
+<a href="https://blog.seas.upenn.edu/penn-engineering-featured-at-philly-s-first-mini-maker-faire-88f4e6f64324/" target="_blank">Penn Blog – Penn Engineering Featured at Philly’s First Mini Maker Faire</a>
 </p>
 <p align="left">
   <small>Image Credit: Eric Sucar, Medium</small>
