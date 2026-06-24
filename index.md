@@ -18,7 +18,8 @@ header:
 
 ## Hello! I am Divya Ramesh
 
-I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Biology](https://www.oeb.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I am a member of [Lauder Lab](https://sites.harvard.edu/glauder/), which is led by Prof. [George V. Lauder](https://www.oeb.harvard.edu/people/george-v-lauder). 
+I am a Post-Doctoral Fellow in the [Department of Organismic and Evolutionary Biology](https://www.oeb.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I am a member of [Lauder Lab](https://sites.harvard.edu/glauder/), which is led by Prof. [George V. Lauder](https://www.oeb.harvard.edu/people/george-v-lauder).
+
 My research focuses on bio-inspired robotics, locomotion, and collective movement across complex **terrestrial**, **amphibious**, and **aquatic** environments. I study how animals, individually or collectively, and robots interact with their surroundings within these environments. I combine **biomechanics**, **robotics**, and **physics** to uncover principles of animal and robot locomotion, build bio-inspired robots, and inform sensing- and interaction-based approaches for robot movement and control.
 
 My current work is in studying the kinematics of fish schooling in water and understanding the hydrodynamic interaction of a fish robot. My previous research focused on studying and understanding animal and robot locomotion on complex 3-D terrain and wet flowable substrates. 
