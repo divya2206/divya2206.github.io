@@ -18,7 +18,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 
 ### Journal Articles
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. ”Beyond fish in formation: A two-tier approach for biomechanical
-studies of collective movement.” Integrative and Comparative Biology (*in press*)
+studies of collective movement.” *Integrative and Comparative Biology* (*in press*)
 1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. [”Six questions in fish locomotor
 biology and the technical approaches needed to address them.”](https://journals.biologists.com/jeb/article-abstract/229/7/jeb251375/371325/Six-questions-in-fish-locomotor-biology-and-the?redirectedFrom=fulltext) *Journal of Experimental Biology* (2026) 229 (7): jeb251375. (<span style="color: #16D7D6;">Commentary</span>,  <span style="color: #FF6F68;">Special Issue: The Integrative Biology of Exercise</span>)
 2.  Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. ["Locomotor variation of fishes: connecting energetics and kinematic modulation."](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting) *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). (<span style="color: #E0BBE4;">Review</span>, <span style="color: #FF6F68;">Theme Issue: Embracing variability in comparative physiology: why it matters and what to do with it</span>)
