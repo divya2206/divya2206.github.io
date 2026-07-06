@@ -12,7 +12,7 @@ header:
 ---
 
 ## Post-doctoral Research
-My research focuses on studying the kinematics of fish schooling and understanding hydrodynamic interaction using a fish robot. I developed 2-D tracking, 3-D reconstruction, and kinematic analysis pipelines for studying kinematic modulation of individual fish and fish schools. I also studied the hydrodynamic interaction of a fish robot swimming into and station holding in different wakes using PIV analysis.
+My research focuses on studying the kinematics of fish schooling and understanding hydrodynamic interactions using a fish robot. Developed 2-D tracking, 3-D reconstruction, and kinematic analysis pipelines for studying kinematic modulation of individual fish and fish schools. Studied the hydrodynamic interaction of a fish robot swimming into and station-holding in different wakes using PIV analysis.
 
 • Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. ”Beyond fish in formation: A two-tier approach for biomechanical
 studies of collective movement.” *Integrative and Comparative Biology* (*in press*). \
