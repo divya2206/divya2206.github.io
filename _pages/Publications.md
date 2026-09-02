@@ -14,7 +14,13 @@ header:
 My full list of publications and conference abstracts can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=sdDxVQoAAAAJ&hl=en).\
 Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab's YouTube channel](https://www.youtube.com/@terradynamicslab).
 
-## Peer-reviewed Publications
+## Publications
+
+### Under Review
+1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. “Mudskippers use tail thrusting to help crutching to move
+on mud of various wetness.” Journal of Experimental Biology (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
+2. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. “Importance and methods to
+control, vary, and characterize mud strength for studying locomotion.” Journal of Experimental Biology (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00563)
 
 ### Journal Articles
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. [”Beyond fish in formation: A two-tier approach for biomechanical
