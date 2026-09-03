@@ -38,9 +38,9 @@ Designed and conducted animal experiments with three model organisms to study th
 </p>
 
 • <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. “Mudskippers use tail thrusting to help crutching to move
-on mud of various wetness.” Journal of Experimental Biology (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564) \
+on mud of various wetness.” *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564) \
 • <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. “Importance and methods to
-control, vary, and characterize mud strength for studying locomotion.” Journal of Experimental Biology (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00563) \
+control, vary, and characterize mud strength for studying locomotion.” *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00563) \
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Zhang, H., Kim, D., Nath, A., Dai, N., Collum, D., Ubaydullaev, A., Vincent, C., Pollard, C., Sadalgekar, G., & Li,
 C. (2025). [Use of body lifting by elongate amphibious fishes to move on mud](https://www.xcdsystem.com/sicb/program/fZq6Sh8/index.cfm?pgid=1951). *Integrative and Comparative Biology, 65*. (Atlanta,
 GA, Talk)\
