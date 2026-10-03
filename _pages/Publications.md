@@ -21,7 +21,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 on mud of various wetness.” *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
 
 ### Journal Articles
-2. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. “Importance and methods to
+1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. “Importance and methods to
 control, vary, and characterize mud strength for studying locomotion.” *Journal of Experimental Biology* (accepted). [arXiv Preprint](https://arxiv.org/abs/2609.00563)
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. [”Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement.”](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
 1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. [”Six questions in fish locomotor
