@@ -25,7 +25,7 @@ My research focused on studying and understanding animal and robot locomotion on
 ### (1) Sensorized snake robot to understand snake locomotion on complex 3-D environment:
 <img src="/assets/Sensnake2.png" alt="Alt text" style="float: left; width: 200px; margin: 10px 20px 10px 0;">
 <p style="margin-left: 220px;">
-Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body contact forces to traverse a complex 3-D environment. Explored a model-based calibration considering the viscoelastic behavior of the piezoresistive sensor, which will be useful for future studies. Developed a force estimation model using the model-based calibration to estimate forces based on sensor input.
+Built a sensorized snake robot, SenSnake, to study how snakes use terrain-body contact forces to traverse a complex 3-D environment. Explored a model-based calibration considering the viscoelastic behavior of the piezo-resistive sensor, which will be useful for future studies. Developed a force estimation model using the model-based calibration to estimate forces based on sensor input.
 </p>
 • <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [”SenSnake: A snake robot with contact force sensing for studying locomotion in
 complex 3-D terrain.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159) *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022.
