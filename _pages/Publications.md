@@ -17,6 +17,8 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 ## Publications
 
 ### Under Review
+1. Michael A. Calicchia, <span style="color: #FF60A8;">Divya Ramesh</span>, Yangfan Zhang, Caleb Pipes, George V. Lauder, Rui Ni. ”Fluctuating hydro-
+dynamic forces increase fish locomotor variability in turbulence.” J. R. Soc. Interface (under review).
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. “Mudskippers use tail thrusting to help crutching to move
 on mud of various wetness.” *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
 
