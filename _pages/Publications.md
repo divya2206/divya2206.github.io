@@ -25,17 +25,17 @@ on mud of various wetness.” *Journal of Experimental Biology* (under review). 
 ### Journal Articles
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. “Importance and methods to
 control, vary, and characterize mud strength for studying locomotion.” *Journal of Experimental Biology* (accepted). [arXiv Preprint](https://arxiv.org/abs/2609.00563)
-1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. [”Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement.”](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
-1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. [”Six questions in fish locomotor
+1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. [“Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement.”](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
+1.  George V. Lauder, Connor F. White, <span style="color: #FF60A8;">Divya Ramesh</span>, Yu Pan, Julia Chaumel, Yangfan Zhang. [“Six questions in fish locomotor
 biology and the technical approaches needed to address them.”](https://journals.biologists.com/jeb/article-abstract/229/7/jeb251375/371325/Six-questions-in-fish-locomotor-biology-and-the?redirectedFrom=fulltext) *Journal of Experimental Biology* (2026) 229 (7): jeb251375. (<span style="color: #16D7D6;">Commentary</span>,  <span style="color: #FF6F68;">Special Issue: The Integrative Biology of Exercise</span>)
-2.  Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. ["Locomotor variation of fishes: connecting energetics and kinematic modulation."](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting) *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). (<span style="color: #E0BBE4;">Review</span>, <span style="color: #FF6F68;">Theme Issue: Embracing variability in comparative physiology: why it matters and what to do with it</span>)
-3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. ["Modulation of Robot Orientation via Leg-Obstacle
+2.  Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, Hungtang Ko, and George V. Lauder. [“Locomotor variation of fishes: connecting energetics and kinematic modulation."](https://royalsocietypublishing.org/rstb/article/381/1946/20250070/481002/Locomotor-variation-of-fishes-connecting) *Phil. Trans. R. Soc. B,* 381: 20250070 (2026). (<span style="color: #E0BBE4;">Review</span>, <span style="color: #FF6F68;">Theme Issue: Embracing variability in comparative physiology: why it matters and what to do with it</span>)
+3. <span style="color: #FF60A8;">Divya Ramesh</span>, Anmol Kathail, Daniel E. Koditschek, and Feifei Qian. [“Modulation of Robot Orientation via Leg-Obstacle
 Contact Positions."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332) *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061.
-4. Rakshith M. N., <span style="color: #FF60A8;">Divya Ramesh</span>, Sundar S., and M. Shanmugasundaram. ["An efficient assistive system for the visually impaired."](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). 
+4. Rakshith M. N., <span style="color: #FF60A8;">Divya Ramesh</span>, Sundar S., and M. Shanmugasundaram. [“An efficient assistive system for the visually impaired."](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). 
 
 ### Conference Papers
 
-1. <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [”SenSnake: A snake robot with contact force sensing for studying locomotion in
+1. <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [“SenSnake: A snake robot with contact force sensing for studying locomotion in
 complex 3-D terrain.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159) *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022.
 
 ## Contributed Conference Abstracts
