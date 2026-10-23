@@ -22,7 +22,7 @@ dynamic forces increase fish locomotor variability in turbulence." *J. R. Soc. I
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. "Mudskippers use tail thrusting to help crutching to move
 on mud of various wetness." *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
 
-### Journal Articles
+### Peer-Reviewed Journal Articles
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. "Importance and methods to
 control, vary, and characterize mud strength for studying locomotion." *Journal of Experimental Biology* (accepted). [arXiv Preprint](https://arxiv.org/abs/2609.00563)
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. ["Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement."](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
@@ -33,7 +33,7 @@ biology and the technical approaches needed to address them."](https://journals.
 Contact Positions."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977332) *IEEE Robotics and Automation Letters 5*, no. 2 (2020): 2054-2061.
 4. Rakshith M. N., <span style="color: #FF60A8;">Divya Ramesh</span>, Sundar S., and M. Shanmugasundaram. ["An efficient assistive system for the visually impaired."](https://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_1017_6390.pdf) *ARPN Journal of Engineering and Applied Sciences 12*, no. 19 (2017). 
 
-### Conference Papers
+### Peer-Reviewed Conference Papers
 
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Qiyuan Fu, and Chen Li. [“SenSnake: A snake robot with contact force sensing for studying locomotion in
 complex 3-D terrain.”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812159) *2022 International Conference on Robotics and Automation (ICRA)*, pp. 2068-2075. IEEE, 2022.
