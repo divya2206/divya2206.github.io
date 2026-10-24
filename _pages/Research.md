@@ -45,7 +45,7 @@ C. (2025). [Use of body lifting by elongate amphibious fishes to move on mud](ht
 GA, Talk)\
 • <span style="color: #FF60A8;">Ramesh, D.</span>, Sadalgekar, G., Zhang, H., Tan, J., Kim, D., Nath, A., Fu, Q., Souders, Z., Pollard, C., An, L., & Li, C. (2024).
 [Comparative biological and robophysical study of amphibious fishes moving on mud of variable strength](https://meetings.aps.org/Meeting/MAR24/Session/G38.12). *Bulletin of the American
-Physical Society, 69*. (Minneapolis, MN, Talk)\
+Physical Society, 69*. (Minneapolis, MN, Talk)
 
 ## Master's Research
 <img src="/assets/ICRA_RAL_Masters.jpeg" alt="Alt text" style="float: left; width: 200px; margin: 100px 20px 10px 0;">
