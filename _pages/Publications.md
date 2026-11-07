@@ -19,10 +19,10 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 ### Under Review
 1. Michael A. Calicchia, <span style="color: #FF60A8;">Divya Ramesh</span>, Yangfan Zhang, Caleb Pipes, George V. Lauder, Rui Ni. "Fluctuating hydro-
 dynamic forces increase fish locomotor variability in turbulence." *J. R. Soc. Interface* (under review). [bioRxiv Preprint](https://doi.org/10.64898/2026.10.13.758844)
-1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. "Mudskippers use tail thrusting to help crutching to move
-on mud of various wetness." *Journal of Experimental Biology* (under review). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
 
 ### Peer-Reviewed Journal Articles
+1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. "Mudskippers use tail thrusting to help crutching to move
+on mud of various wetness." *Journal of Experimental Biology* (accepted). [arXiv Preprint](https://arxiv.org/abs/2609.00564)
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. ["Importance and methods to
 control, vary, and characterize mud strength for studying locomotion."](https://doi.org/10.1242/jeb.252122) *Journal of Experimental Biology* (in press): jeb.252122. 
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. ["Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement."](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
