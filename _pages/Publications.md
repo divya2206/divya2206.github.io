@@ -21,7 +21,7 @@ Some of my conference talks from my Ph.D. can be found on the [Terradynamics Lab
 
 ### Peer-Reviewed Journal Articles
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Jiangqi Tan, Chen Li. ["Mudskippers use tail thrusting to help crutching to move
-on mud of various wetness."](https://doi.org/10.1242/jeb.252123) *Journal of Experimental Biology* (accepted). 
+on mud of various wetness."](https://doi.org/10.1242/jeb.252123) *Journal of Experimental Biology* (in press): jeb.252123. 
 1. <span style="color: #FF60A8;">Divya Ramesh</span>, Gargi Sadalgekar, Qiyuan Fu, Zachary Souders, Jack Rao, Chen Li. ["Importance and methods to
 control, vary, and characterize mud strength for studying locomotion."](https://doi.org/10.1242/jeb.252122) *Journal of Experimental Biology* (in press): jeb.252122. 
 1. Yangfan Zhang, <span style="color: #FF60A8;">Divya Ramesh</span>, George V. Lauder. ["Beyond Fish in Formation: A Two-Tier Approach for Biomechanical Studies of Collective Movement."](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icag133/8743699) *Integrative and Comparative Biology* (2026) 66: icag133. 
